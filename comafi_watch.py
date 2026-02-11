@@ -80,11 +80,6 @@ def scrape_rows(max_load_more_clicks=5):
     return list(dict.fromkeys(rows))
 
 def main():
-    now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
-    send_telegram(f"🧪 Test hora Argentina: {now}")
-    print("Test enviado.")
-    return
-    
     current_rows = scrape_rows()
     if not current_rows:
         print("No se pudieron leer eventos.")
@@ -108,5 +103,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
