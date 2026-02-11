@@ -79,6 +79,119 @@ def scrape_rows(max_load_more_clicks=5):
 
     return list(dict.fromkeys(rows))
 
+def _norm(s: str) -> str:
+    return " ".join((s or "").split()).strip()
+
+def parse_row(row: str):
+    """
+    Esperado: 'DD/MM/YY | TICKER | DESCRIPCION ... | |'
+    Devuelve: (fecha, ticker, descripcion)
+    """
+    parts = [p.strip() for p in row.split("|")]
+    # limpiamos vacíos al final
+    parts = [p for p in parts if p != ""]
+    fecha = parts[0] if len(parts) > 0 else ""
+    ticker = parts[1] if len(parts) > 1 else ""
+    desc = parts[2] if len(parts) > 2 else ""
+    return _norm(fecha), _norm(ticker), _norm(desc)
+
+def classify_event(desc: str):
+    d = desc.upper()
+
+    # Dividendos
+    if "DIVIDENDO" in d:
+        return "💰 Dividendos", None
+
+    # Cambios corporativos “accionables”
+    if "DESLISTING" in d:
+        return "⚙️ Cambios corporativos", "Deslisting"
+    if "CAMBIO DE MERCADO" in d or ("CAMBIO" in d and "MERCADO" in d):
+        return "⚙️ Cambios corporativos", "Cambio de mercado"
+    if "SPLIT" in d:
+        return "⚙️ Cambios corporativos", "Split"
+    if "REVERSE" in d and "SPLIT" in d:
+        return "⚙️ Cambios corporativos", "Reverse split"
+
+    # Ampliaciones
+    if "AMPLIACIÓN" in d or "AMPLIACION" in d:
+        return "🏗 Ampliaciones", "Ampliación de monto máximo"
+
+    # Warrant / distribuciones (si querés verlo como “corporativo”)
+    if "WARRANT" in d or "DISTRIBUCIÓN" in d or "DISTRIBUCION" in d:
+        return "⚙️ Cambios corporativos", "Distribución / Warrants"
+
+    # Info relevante
+    if "INFORMACIÓN RELEVANTE" in d or "INFORMACION RELEVAVANTE" in d or "INFORMACION RELEVANTE" in d:
+        return "📝 Información relevante", "Información relevante"
+
+    # Fallback
+    return "📌 Otros", "Evento"
+
+def build_message(new_items, now_str: str, url: str, max_per_cat: int = 10):
+    """
+    new_items: lista de filas crudas
+    now_str: 'YYYY-MM-DD HH:MM' ya en hora AR
+    """
+    # orden de categorías
+    cat_order = [
+        "💰 Dividendos",
+        "⚙️ Cambios corporativos",
+        "🏗 Ampliaciones",
+        "📝 Información relevante",
+        "📌 Otros",
+    ]
+
+    buckets = {c: [] for c in cat_order}
+
+    # Para dividendos: solo tickers únicos
+    div_seen = set()
+    # Para el resto: (ticker, label) únicos
+    other_seen = set()
+
+    for row in new_items:
+        fecha, ticker, desc = parse_row(row)
+        if not ticker:
+            continue
+
+        cat, label = classify_event(desc)
+
+        if cat == "💰 Dividendos":
+            if ticker not in div_seen:
+                div_seen.add(ticker)
+                buckets[cat].append(f"• {ticker}")
+        else:
+            lab = label or "Evento"
+            key = (ticker, lab)
+            if key not in other_seen:
+                other_seen.add(key)
+                buckets[cat].append(f"• {ticker} – {lab}")
+
+    # construir mensaje
+    lines = []
+    lines.append("🔔 Nuevos eventos CEDEAR")
+    lines.append("")
+    lines.append(f"📅 {now_str} AR")
+    lines.append("")
+
+    any_section = False
+    for cat in cat_order:
+        items = buckets[cat]
+        if not items:
+            continue
+        any_section = True
+        lines.append(cat)
+        lines.append("")
+        lines.extend(items[:max_per_cat])
+        if len(items) > max_per_cat:
+            lines.append(f"• … y {len(items) - max_per_cat} más")
+        lines.append("")
+
+    if not any_section:
+        return None  # nada para mandar
+
+    lines.append(f"Fuente: {url}")
+    return "\n".join(lines).strip()
+
 def main():
     current_rows = scrape_rows()
     if not current_rows:
@@ -90,11 +203,11 @@ def main():
     new_items = [r for r in current_rows if r not in seen]
 
     if new_items:
-        now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
-        message = f"📌 Nuevos eventos CEDEAR ({now})\n\n"
-        message += "\n".join(f"• {item}" for item in new_items[:20])
-        message += f"\n\nFuente: {URL}"
-        send_telegram(message)
+        if new_items:
+    now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
+    msg = build_message(new_items, now_str=now, url=URL, max_per_cat=10)
+    if msg:
+        send_telegram(msg)
         print("Enviado a Telegram.")
     else:
         print("Sin novedades.")
@@ -103,6 +216,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
