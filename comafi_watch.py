@@ -203,12 +203,12 @@ def main():
     new_items = [r for r in current_rows if r not in seen]
 
     if new_items:
-        if new_items:
-    now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
-    msg = build_message(new_items, now_str=now, url=URL, max_per_cat=10)
-    if msg:
-        send_telegram(msg)
-        print("Enviado a Telegram.")
+        now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
+        msg = build_message(new_items, now_str=now, url=URL, max_per_cat=10)
+
+        if msg:
+            send_telegram(msg)
+            print("Enviado a Telegram.")
     else:
         print("Sin novedades.")
 
@@ -216,6 +216,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
