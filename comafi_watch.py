@@ -5,6 +5,7 @@ import urllib.parse
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 URL = "https://www.comafi.com.ar/custodiaglobal/eventos-corporativos.aspx"
 STATE_FILE = "seen.json"
@@ -89,7 +90,7 @@ def main():
     new_items = [r for r in current_rows if r not in seen]
 
     if new_items:
-        now = datetime.now().strftime("%Y-%m-%d %H:%M")
+        now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
         message = f"📌 Nuevos eventos CEDEAR ({now})\n\n"
         message += "\n".join(f"• {item}" for item in new_items[:20])
         message += f"\n\nFuente: {URL}"
@@ -102,3 +103,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
