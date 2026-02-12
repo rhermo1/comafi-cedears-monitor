@@ -244,6 +244,10 @@
     "12/09/25 | ORANY | INFORMACION RELAVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 12.09.25 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "12/02/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
+    "12/02/26 | MBG GR | ANUNCIO DE DIVIDENDO MBG GR |  | ",
+    "12/02/26 | MDLZ | ANUNCIO DE DIVIDENDO MDLZ |  | ",
+    "12/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
     "11/02/26 | AIG | ANUNCIO DE DIVIDENDO AIG |  | ",
     "11/02/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
     "11/02/26 | GILD | ANUNCIO DE DIVIDENDO GILD |  | ",
@@ -359,13 +363,10 @@
     "02/01/26 | ITUB | ANUNCIO DE DIVDENDO  ITUB.- |  | ",
     "02/01/26 | ITUB | ANUNCIO DE DIVDENDO  ITUB |  | ",
     "02/01/26 | ITUB | ANUNCIO DE DIVDENDO ITUB - |  | ",
-    "02/01/26 | ITUB | ANUNCIO DE DIVDENDO ITUB |  | ",
-    "02/01/26 | ITUB | ANUNCIO DE DIVDENDO ITUB- |  | ",
-    "02/01/26 | BBD | ANUNCIO DE DIVDENDO BBD |  | ",
-    "02/01/26 | JNJ | ANUNCIO DE DIVDENDO JNJ |  | ",
-    "02/01/26 | PBR | ANUNCIO DE DIVDENDO PBR |  | "
+    "02/01/26 | ITUB | ANUNCIO DE DIVDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "12/02/26 | AAPL | AVISO DE PAGO AAPL |  | ",
     "11/02/26 | BBD | AVISO DE PAGO BBD |  | ",
     "11/02/26 | NUE | AVISO DE PAGO NUE |  | ",
     "11/02/26 | SUZ | AVISO DE PAGO SUZ |  | ",
@@ -484,7 +485,6 @@
     "19/12/25 | NTES | AVISO DE PAGO NTES |  | ",
     "19/12/25 | ORANY | AVISO DE PAGO ORANY |  | ",
     "19/12/25 | QCOM | AVISO DE PAGO QCOM |  | ",
-    "18/12/25 | GM | AVISO DE PAGO GM |  | ",
-    "18/12/25 | HD | AVISO DE PAGO HD |  | "
+    "18/12/25 | GM | AVISO DE PAGO GM |  | "
   ]
 }
