@@ -4,8 +4,6 @@ on:
   schedule:
     # Lun–Vie 08:00–20:00 AR (11:00–23:00 UTC)
     - cron: "0 11-23 * * 1-5"
-    # Lun–Vie 21:00 AR (00:00 UTC del día siguiente -> Mar–Sáb)
-    - cron: "0 0-1 * * 2-6"
   workflow_dispatch:
 
 permissions:
