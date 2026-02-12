@@ -230,7 +230,14 @@ def build_multi_source_message(results_by_section, now_str):
         lines.append("")
         lines.append(f"Fuente: {url}")
         lines.append("")
-
+    # 👇 FIRMA ACÁ
+    lines.append("—")
+    lines.append("Equipo RIG Valores")
+    lines.append("")
+    lines.append("Este es un mensaje automático generado por nuestro sistema de monitoreo.")
+    lines.append("Ante cualquier inquietud, contacte con su asesor.")
+    lines.append("")
+        
     return "\n".join(lines).strip()
 
 def main():
@@ -280,6 +287,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
