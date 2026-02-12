@@ -7,7 +7,12 @@ from playwright.sync_api import sync_playwright
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-URL = "https://www.comafi.com.ar/custodiaglobal/eventos-corporativos.aspx"
+SOURCES = {
+    "📌 Últimos eventos corporativos": "https://www.comafi.com.ar/custodiaglobal/eventos-corporativos.aspx",
+    "💰 Últimos avisos de dividendos": "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx",
+    "🏦 Últimos pagos": "https://www.comafi.com.ar/custodiaglobal/pagos.aspx",
+}
+
 STATE_FILE = "seen.json"
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
@@ -34,19 +39,23 @@ def send_telegram(text: str):
 
 def load_seen():
     if not os.path.exists(STATE_FILE):
-        return set()
+        return {}
     with open(STATE_FILE, "r", encoding="utf-8") as f:
-        return set(json.load(f))
+        data = json.load(f)
+        # compat: si antes era lista, lo convertimos a dict "legacy"
+        if isinstance(data, list):
+            return {"legacy": data}
+        return data
 
-def save_seen(items):
+def save_seen(seen_dict):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(items), f, ensure_ascii=False, indent=2)
+        json.dump(seen_dict, f, ensure_ascii=False, indent=2)
 
-def scrape_rows(max_load_more_clicks=5):
+def scrape_rows(url: str, max_load_more_clicks=5):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(URL, wait_until="networkidle")
+        page.goto(url, wait_until="networkidle")
 
         for _ in range(max_load_more_clicks):
             btn = page.get_by_text("Ver más", exact=True)
@@ -191,31 +200,87 @@ def build_message(new_items, now_str: str, url: str, max_per_cat: int = 10):
 
     lines.append(f"Fuente: {url}")
     return "\n".join(lines).strip()
+    
+def build_multi_source_message(results_by_section, now_str):
+    """
+    results_by_section: dict {section_title: {"items": [str], "url": str}}
+    """
+    # si no hay nada nuevo en ninguna, no mandamos
+    if not any(v["items"] for v in results_by_section.values()):
+        return None
+
+    lines = []
+    lines.append("🔔 Novedades CEDEAR")
+    lines.append("")
+    lines.append(f"📅 {now_str} AR")
+    lines.append("")
+
+    for section_title, payload in results_by_section.items():
+        items = payload["items"]
+        url = payload["url"]
+        if not items:
+            continue
+
+        lines.append(section_title)
+        lines.append("")
+        # ya vienen como bullets
+        lines.extend(items[:20])
+        if len(items) > 20:
+            lines.append(f"• … y {len(items) - 20} más")
+        lines.append("")
+        lines.append(f"Fuente: {url}")
+        lines.append("")
+
+    return "\n".join(lines).strip()
 
 def main():
-    current_rows = scrape_rows()
-    if not current_rows:
-        print("No se pudieron leer eventos.")
-        return
+    seen_dict = load_seen()  # dict por sección
+    results = {}
 
-    seen = load_seen()
-    current_set = set(current_rows)
-    new_items = [r for r in current_rows if r not in seen]
+    for section_title, url in SOURCES.items():
+        current_rows = scrape_rows(url)
+        if not current_rows:
+            print(f"No se pudieron leer eventos en: {url}")
+            results[section_title] = {"items": [], "url": url}
+            continue
 
-    if new_items:
-        now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
-        msg = build_message(new_items, now_str=now, url=URL, max_per_cat=10)
+        seen_list = seen_dict.get(url, [])
+        seen_set = set(seen_list)
 
-        if msg:
-            send_telegram(msg)
-            print("Enviado a Telegram.")
+        new_rows = [r for r in current_rows if r not in seen_set]
+
+        # Convertimos a bullets cortos: "FECHA | TICKER | DESC"
+        bullets = []
+        for row in new_rows:
+            fecha, ticker, desc = parse_row(row)  # tu parse_row actual
+            if ticker:
+                # texto corto
+                short = desc
+                # opcional: recortar largo
+                if len(short) > 90:
+                    short = short[:87] + "..."
+                bullets.append(f"• {fecha} | {ticker} | {short}")
+            else:
+                bullets.append(f"• {row}")
+
+        results[section_title] = {"items": bullets, "url": url}
+
+        # actualizar estado de ESA url
+        seen_dict[url] = current_rows
+
+    now = datetime.now(ZoneInfo("America/Argentina/Buenos_Aires")).strftime("%Y-%m-%d %H:%M")
+    msg = build_multi_source_message(results, now_str=now)
+    if msg:
+        send_telegram(msg)
+        print("Enviado a Telegram.")
     else:
         print("Sin novedades.")
 
-    save_seen(current_set)
+    save_seen(seen_dict)
 
 if __name__ == "__main__":
     main()
+
 
 
 
