@@ -244,8 +244,23 @@
     "29/09/25 | DD | SPIN OFF DD- CEDEAR 8018- US26614N1028 -2025 - actualizacion 29-9-2025 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "19/02/26 | ABBV | ANUNCIO DE DIVIDENDO ABBV |  | ",
+    "19/02/26 |  | ANUNCIO DE DIVIDENDO AEG |  | ",
+    "19/02/26 | BAS GR | ANUNCIO DE DIVIDENDO BAS GR |  | ",
+    "19/02/26 | BKNG | ANUNCIO DE DIVIDENDO BKNG |  | ",
+    "19/02/26 | EBAY | ANUNCIO DE DIVIDENDO EBAY |  | ",
+    "19/02/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
+    "19/02/26 | KGC | ANUNCIO DE DIVIDENDO KGC |  | ",
+    "19/02/26 | KO | ANUNCIO DE DIVIDENDO KO |  | ",
+    "19/02/26 | PAAS | ANUNCIO DE DIVIDENDO PAAS |  | ",
+    "19/02/26 | RACE | ANUNCIO DE DIVIDENDO RACE |  | ",
+    "19/02/26 | RIO | ANUNCIO DE DIVIDENDO RIO |  | ",
+    "19/02/26 | WMT | ANUNCIO DE DIVIDENDO WMT RD 8.5.2026- |  | ",
+    "19/02/26 | WMT | ANUNCIO DE DIVIDENDO WMT RD 11.12.2026 |  | ",
+    "19/02/26 | WMT | ANUNCIO DE DIVIDENDO WMT -RD 20.3.26 |  | ",
+    "19/02/26 | WMT | ANUNCIO DE DIVIDENDO WMT RD 21.8.26 |  | ",
     "18/02/26 | ADI | ANUNCIO DE DIVIDENDO ADI |  | ",
-    "18/02/26 | BAS | ANUNCIO DE DIVIDENDO BAS |  | ",
+    "18/02/26 | BAS GR | ANUNCIO DE DIVIDENDO BAS |  | ",
     "18/02/26 | BHP | ANUNCIO DE DIVIDENDO BHP |  | ",
     "18/02/26 | EOAN | ANUNCIO DE DIVIDENDO EOAN GR |  | ",
     "18/02/26 | GRMN | ANUNCIO DE DIVIDENDO GRMN - |  | ",
@@ -348,24 +363,10 @@
     "19/01/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
     "16/01/26 | COST | ANUNCIO DE DIVIDENDO COST |  | ",
     "16/01/26 | QCOM | ANUNCIO DE DIVIDENDO QCOM |  | ",
-    "16/01/26 | TXN | ANUNCIO DE DIVIDENDO TXN |  | ",
-    "15/01/26 | ADP | ANUNCIO DE DIVDENDO ADP |  | ",
-    "15/01/26 | GS | ANUNCIO DE DIVDENDO GS |  | ",
-    "15/01/26 | ING | ANUNCIO DE DIVDENDO ING |  | ",
-    "15/01/26 | SPGI | ANUNCIO DE DIVDENDO SPGI |  | ",
-    "14/01/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "14/01/26 | MRSH | ANUNCIO DE DIVIDENDO MRSH |  | ",
-    "14/01/26 | PG | ANUNCIO DE DIVIDENDO PG |  | ",
-    "14/01/26 | SBS | ANUNCIO DE DIVIDENDO SBS |  | ",
-    "14/01/26 | VALE | ANUNCIO DE DIVIDENDO VALE |  | ",
-    "13/01/26 | BK | ANUNCIO DE DIVIDENDO BK |  | ",
-    "13/01/26 | C | ANUNCIO DE DIVIDENDO C |  | ",
-    "13/01/26 | ELPC | ANUNCIO DE DIVIDENDO ELP |  | ",
-    "13/01/26 | ELPC | ANUNCIO DE DIVIDENDO ELPC - interest on capital |  | ",
-    "13/01/26 | ELPC | ANUNCIO DE DIVIDENDO ELPC- |  | ",
-    "12/01/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | "
+    "16/01/26 | TXN | ANUNCIO DE DIVIDENDO TXN |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "19/02/26 |  | AVISO DE PAGO CAT |  | ",
     "18/02/26 | ABBV | AVISO DE PAGO ABBV |  | ",
     "18/02/26 | ASML | AVISO DE PAGO ASML |  | ",
     "18/02/26 | BSBR | AVISO DE PAGO BSBR |  | ",
@@ -484,7 +485,6 @@
     "19/12/25 | ACWI | AVISO DE PAGO ACWI |  | ",
     "19/12/25 | BP | AVISO DE PAGO BP |  | ",
     "19/12/25 | EFA | AVISO DE PAGO EFA |  | ",
-    "19/12/25 | EWJ | AVISO DE PAGO EWJ |  | ",
-    "19/12/25 | EWJ | AVISO DE PAGO EWJ- |  | "
+    "19/12/25 | EWJ | AVISO DE PAGO EWJ |  | "
   ]
 }
