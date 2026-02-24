@@ -244,6 +244,9 @@
     "02/10/25 | IBIT | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO-ISHARES BITCOIN TRUST (IBIT)- ISIN AR0626566167 Cód. 8660 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "24/02/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
+    "24/02/26 | GRMN | ANUNCIO DE DIVIDENDO GRMN |  | ",
+    "24/02/26 | HD | ANUNCIO DE DIVIDENDO HD |  | ",
     "23/02/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
     "20/02/26 | ABT | ANUNCIO DE DIVIDENDO ABT |  | ",
     "20/02/26 | BSN GR | ANUNCIO DE DIVIDENDO BSN GR |  | ",
@@ -360,12 +363,10 @@
     "26/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
     "23/01/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
     "23/01/26 | SLB | ANUNCIO DE DIVIDENDO SLB |  | ",
-    "23/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE RD 1-4 |  | ",
-    "23/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE RD 31-12 |  | ",
-    "22/01/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | ",
-    "22/01/26 | TGT | ANUNCIO DE DIVIDENDO TGT |  | "
+    "23/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE RD 1-4 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "24/02/26 | SIEGY | AVISO DE PAGO SIEGY |  | ",
     "19/02/26 |  | AVISO DE PAGO CAT |  | ",
     "18/02/26 | ABBV | AVISO DE PAGO ABBV |  | ",
     "18/02/26 | ASML | AVISO DE PAGO ASML |  | ",
@@ -484,7 +485,6 @@
     "22/12/25 | NEM | AVISO DE PAGO NEM |  | ",
     "19/12/25 | ACWI | AVISO DE PAGO ACWI |  | ",
     "19/12/25 | BP | AVISO DE PAGO BP |  | ",
-    "19/12/25 | EFA | AVISO DE PAGO EFA |  | ",
-    "19/12/25 | EWJ | AVISO DE PAGO EWJ |  | "
+    "19/12/25 | EFA | AVISO DE PAGO EFA |  | "
   ]
 }
