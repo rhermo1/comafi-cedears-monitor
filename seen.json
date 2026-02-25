@@ -244,6 +244,11 @@
     "02/10/25 | IBIT | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO-ISHARES BITCOIN TRUST (IBIT)- ISIN AR0626566167 Cód. 8660 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "25/02/26 | DE | ANUNCIO DE DIVIDENDO DE |  | ",
+    "25/02/26 | DHR | ANUNCIO DE DIVIDENDO DHR |  | ",
+    "25/02/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
+    "25/02/26 | HSBC | ANUNCIO DE DIVIDENDO HSBC |  | ",
+    "25/02/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
     "24/02/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
     "24/02/26 | GRMN | ANUNCIO DE DIVIDENDO GRMN |  | ",
     "24/02/26 | HD | ANUNCIO DE DIVIDENDO HD |  | ",
@@ -358,14 +363,11 @@
     "29/01/26 | ELPC | ANUNCIO DE DIVIDENDO ELPC |  | ",
     "29/01/26 | HPQ | ANUNCIO DE DIVIDENDO HPQ |  | ",
     "29/01/26 | IBM | ANUNCIO DE DIVIDENDO IBM |  | ",
-    "29/01/26 | LVS | ANUNCIO DE DIVIDENDO LVS |  | ",
-    "29/01/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
-    "26/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
-    "23/01/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
-    "23/01/26 | SLB | ANUNCIO DE DIVIDENDO SLB |  | ",
-    "23/01/26 | TTE | ANUNCIO DE DIVIDENDO TTE RD 1-4 |  | "
+    "29/01/26 | LVS | ANUNCIO DE DIVIDENDO LVS |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "25/02/26 | BKNG | ANUNCIO DE STOCK SPLIT BOOKING HOLDINGS INC.(BKNG)-ISIN AR0171546572-Cód.8639 |  | ",
+    "25/02/26 | HWM | AVISO DE PAGO HWM |  | ",
     "24/02/26 | SIEGY | AVISO DE PAGO SIEGY |  | ",
     "19/02/26 |  | AVISO DE PAGO CAT |  | ",
     "18/02/26 | ABBV | AVISO DE PAGO ABBV |  | ",
@@ -483,8 +485,6 @@
     "22/12/25 | ADI | AVISO DE PAGO ADI |  | ",
     "22/12/25 | HOG | AVISO DE PAGO HOG |  | ",
     "22/12/25 | NEM | AVISO DE PAGO NEM |  | ",
-    "19/12/25 | ACWI | AVISO DE PAGO ACWI |  | ",
-    "19/12/25 | BP | AVISO DE PAGO BP |  | ",
-    "19/12/25 | EFA | AVISO DE PAGO EFA |  | "
+    "19/12/25 | ACWI | AVISO DE PAGO ACWI |  | "
   ]
 }
