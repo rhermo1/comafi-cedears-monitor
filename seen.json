@@ -244,6 +244,10 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "02/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI - Regular Cash |  | ",
+    "02/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI - Special Cash |  | ",
+    "02/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
+    "02/03/26 | TSM | ANUNCIO DE DIVIDENDO TSM |  | ",
     "27/02/26 | BAS GR | ANUNCIO DE DIVIDENDO BAS GR |  | ",
     "27/02/26 | CRM | ANUNCIO DE DIVIDENDO CRM |  | ",
     "27/02/26 | CX | ANUNCIO DE DIVIDENDO CX |  | ",
@@ -359,13 +363,13 @@
     "05/02/26 | NVS | ANUNCIO DE DIVIDENDO NVS |  | ",
     "05/02/26 | PEP | ANUNCIO DE DIVIDENDO PEP |  | ",
     "05/02/26 | PKX | ANUNCIO DE DIVIDENDO PKX |  | ",
-    "05/02/26 | SHEL | ANUNCIO DE DIVIDENDO SHEL |  | ",
-    "04/02/26 | AVY | ANUNCIO DE DIVIDENDO AVY |  | ",
-    "04/02/26 | BAC | ANUNCIO DE DIVIDENDO BAC |  | ",
-    "04/02/26 | EA | ANUNCIO DE DIVIDENDO EA |  | ",
-    "04/02/26 | MMM | ANUNCIO DE DIVIDENDO MMM |  | "
+    "05/02/26 | SHEL | ANUNCIO DE DIVIDENDO SHEL |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "02/03/26 | PBR | AVISO DE PAGO PBR |  | ",
+    "02/03/26 | TGT | AVISO DE PAGO TGT |  | ",
+    "02/03/26 | V | AVISO DE PAGO V |  | ",
+    "02/03/26 | WFC | AVISO DE PAGO WFC |  | ",
     "27/02/26 | BKR | AVISO DE PAGO BKR |  | ",
     "27/02/26 | C | AVISO DE PAGO C |  | ",
     "27/02/26 | CCL | AVISO DE PAGO CCL |  | ",
@@ -481,10 +485,6 @@
     "26/12/25 | XLB | AVISO DE PAGO XLB |  | ",
     "26/12/25 | XLC | AVISO DE PAGO XLC |  | ",
     "26/12/25 | XLI | AVISO DE PAGO XLI |  | ",
-    "26/12/25 | XLK | AVISO DE PAGO XLK |  | ",
-    "26/12/25 | XLP | AVISO DE PAGO XLP |  | ",
-    "26/12/25 | XLRE | AVISO DE PAGO XLRE |  | ",
-    "26/12/25 | XLV | AVISO DE PAGO XLV |  | ",
-    "26/12/25 | XLY | AVISO DE PAGO XLY |  | "
+    "26/12/25 | XLK | AVISO DE PAGO XLK |  | "
   ]
 }
