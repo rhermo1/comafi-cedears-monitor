@@ -244,6 +244,9 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "03/03/26 | AXP | ANUNCIO DE DIVIDENDO AXP |  | ",
+    "03/03/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | ",
+    "03/03/26 | BMY | ANUNCIO DE DIVIDENDO BMY |  | ",
     "02/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI - Regular Cash |  | ",
     "02/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI - Special Cash |  | ",
     "02/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
@@ -360,12 +363,10 @@
     "05/02/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
     "05/02/26 | HSY | ANUNCIO DE DIVIDENDO HSY |  | ",
     "05/02/26 | MCD | ANUNCIO DE DIVIDENDO MCD |  | ",
-    "05/02/26 | NVS | ANUNCIO DE DIVIDENDO NVS |  | ",
-    "05/02/26 | PEP | ANUNCIO DE DIVIDENDO PEP |  | ",
-    "05/02/26 | PKX | ANUNCIO DE DIVIDENDO PKX |  | ",
-    "05/02/26 | SHEL | ANUNCIO DE DIVIDENDO SHEL |  | "
+    "05/02/26 | NVS | ANUNCIO DE DIVIDENDO NVS |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "03/03/26 | BG | AVISO DE PAGO BG |  | ",
     "02/03/26 | PBR | AVISO DE PAGO PBR |  | ",
     "02/03/26 | TGT | AVISO DE PAGO TGT |  | ",
     "02/03/26 | V | AVISO DE PAGO V |  | ",
@@ -484,7 +485,6 @@
     "26/12/25 | VIG | AVISO DE PAGO VIG |  | ",
     "26/12/25 | XLB | AVISO DE PAGO XLB |  | ",
     "26/12/25 | XLC | AVISO DE PAGO XLC |  | ",
-    "26/12/25 | XLI | AVISO DE PAGO XLI |  | ",
-    "26/12/25 | XLK | AVISO DE PAGO XLK |  | "
+    "26/12/25 | XLI | AVISO DE PAGO XLI |  | "
   ]
 }
