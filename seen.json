@@ -244,6 +244,15 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "04/03/26 | ADS | ANUNCIO DE DIVIDENDO ADS |  | ",
+    "04/03/26 | BAYN GR | ANUNCIO DE DIVIDENDO BAYN GR |  | ",
+    "04/03/26 | ERIC | ANUNCIO DE DIVIDENDO ERIC |  | ",
+    "04/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
+    "04/03/26 | JCI | ANUNCIO DE DIVIDENDO JCI |  | ",
+    "04/03/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
+    "04/03/26 | ROST | ANUNCIO DE DIVIDENDO ROST |  | ",
+    "04/03/26 | SAN | ANUNCIO DE DIVIDENDO SAN |  | ",
+    "04/03/26 | VALE | ANUNCIO DE DIVIDENDO VALE |  | ",
     "03/03/26 | AXP | ANUNCIO DE DIVIDENDO AXP |  | ",
     "03/03/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | ",
     "03/03/26 | BMY | ANUNCIO DE DIVIDENDO BMY |  | ",
@@ -354,18 +363,11 @@
     "06/02/26 | LRCX | ANUNCIO DE DIVIDENDO LRCX |  | ",
     "06/02/26 | SUZ | ANUNCIO DE DIVIDENDO SUZ |  | ",
     "06/02/26 | UNP | ANUNCIO DE DIVIDENDO UNP |  | ",
-    "06/02/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | ",
-    "05/02/26 | B | ANUNCIO DE DIVIDENDO B |  | ",
-    "05/02/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "05/02/26 | DAL | ANUNCIO DE DIVIDENDO DAL |  | ",
-    "05/02/26 | EQNR | ANUNCIO DE DIVIDENDO EQNR |  | ",
-    "05/02/26 | GOOGL | ANUNCIO DE DIVIDENDO GOOGL |  | ",
-    "05/02/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
-    "05/02/26 | HSY | ANUNCIO DE DIVIDENDO HSY |  | ",
-    "05/02/26 | MCD | ANUNCIO DE DIVIDENDO MCD |  | ",
-    "05/02/26 | NVS | ANUNCIO DE DIVIDENDO NVS |  | "
+    "06/02/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "04/03/26 | PCAR | AVISO DE PAGO PCAR |  | ",
+    "04/03/26 | PSX | AVISO DE PAGO PSX |  | ",
     "03/03/26 | BG | AVISO DE PAGO BG |  | ",
     "02/03/26 | PBR | AVISO DE PAGO PBR |  | ",
     "02/03/26 | TGT | AVISO DE PAGO TGT |  | ",
@@ -483,8 +485,6 @@
     "26/12/25 | SPHQ | AVISO DE PAGO SPHQ |  | ",
     "26/12/25 | UGP | AVISO DE PAGO UGP |  | ",
     "26/12/25 | VIG | AVISO DE PAGO VIG |  | ",
-    "26/12/25 | XLB | AVISO DE PAGO XLB |  | ",
-    "26/12/25 | XLC | AVISO DE PAGO XLC |  | ",
-    "26/12/25 | XLI | AVISO DE PAGO XLI |  | "
+    "26/12/25 | XLB | AVISO DE PAGO XLB |  | "
   ]
 }
