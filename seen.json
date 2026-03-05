@@ -244,6 +244,10 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "05/03/26 | AMGN | ANUNCIO DE DIVIDENDO AMGN |  | ",
+    "05/03/26 | AVGO | ANUNCIO DE DIVIDENDO AVGO |  | ",
+    "05/03/26 | IFF | ANUNCIO DE DIVIDENDO IFF |  | ",
+    "05/03/26 | PM | ANUNCIO DE DIVIDENDO PM |  | ",
     "04/03/26 | ADS | ANUNCIO DE DIVIDENDO ADS |  | ",
     "04/03/26 | BAYN GR | ANUNCIO DE DIVIDENDO BAYN GR |  | ",
     "04/03/26 | ERIC | ANUNCIO DE DIVIDENDO ERIC |  | ",
@@ -359,13 +363,11 @@
     "06/02/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
     "06/02/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR- |  | ",
     "06/02/26 | GE | ANUNCIO DE DIVIDENDO GE |  | ",
-    "06/02/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
-    "06/02/26 | LRCX | ANUNCIO DE DIVIDENDO LRCX |  | ",
-    "06/02/26 | SUZ | ANUNCIO DE DIVIDENDO SUZ |  | ",
-    "06/02/26 | UNP | ANUNCIO DE DIVIDENDO UNP |  | ",
-    "06/02/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | "
+    "06/02/26 | KB | ANUNCIO DE DIVIDENDO KB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "05/03/26 | DJNJ3-XD004 | AVISO DE PAGO DJNJ3 |  | ",
+    "05/03/26 | TJX | AVISO DE PAGO TJX |  | ",
     "04/03/26 | PCAR | AVISO DE PAGO PCAR |  | ",
     "04/03/26 | PSX | AVISO DE PAGO PSX |  | ",
     "03/03/26 | BG | AVISO DE PAGO BG |  | ",
@@ -483,8 +485,6 @@
     "26/12/25 | HAL | AVISO DE PAGO HAL |  | ",
     "26/12/25 | NVDA | AVISO DE PAGO NVDA |  | ",
     "26/12/25 | SPHQ | AVISO DE PAGO SPHQ |  | ",
-    "26/12/25 | UGP | AVISO DE PAGO UGP |  | ",
-    "26/12/25 | VIG | AVISO DE PAGO VIG |  | ",
-    "26/12/25 | XLB | AVISO DE PAGO XLB |  | "
+    "26/12/25 | UGP | AVISO DE PAGO UGP |  | "
   ]
 }
