@@ -244,6 +244,11 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "10/03/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
+    "10/03/26 | MFG | ANUNCIO DE DIVIDENDO MFG |  | ",
+    "10/03/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
+    "10/03/26 | ORCL | ANUNCIO DE DIVIDENDO ORCL |  | ",
+    "10/03/26 | TM | ANUNCIO DE DIVIDENDO TM |  | ",
     "09/03/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "09/03/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
     "06/03/26 | MDT | ANUNCIO DE DIVIDENDO MDT |  | ",
@@ -358,14 +363,17 @@
     "10/02/26 | BCS | ANUNCIO DE DIVIDENDO BCS |  | ",
     "10/02/26 | BP | ANUNCIO DE DIVIDENDO BP |  | ",
     "10/02/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
-    "10/02/26 | TSM | ANUNCIO DE DIVIDENDO TSM |  | ",
-    "09/02/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "09/02/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
-    "09/02/26 | LMT | ANUNCIO DE DIVIDENDO LMT |  | ",
-    "09/02/26 | RTX | ANUNCIO DE DIVIDENDO RTX |  | ",
-    "06/02/26 |  | ANUNCIO DE DIVIDENDO BKR |  | "
+    "10/02/26 | TSM | ANUNCIO DE DIVIDENDO TSM |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "10/03/26 | BBD | AVISO DE PAGO BBD |  | ",
+    "10/03/26 | CVX | AVISO DE PAGO CVX |  | ",
+    "10/03/26 | IBM | AVISO DE PAGO IBM |  | ",
+    "10/03/26 | ITUB | AVISO DE PAGO ITUB |  | ",
+    "10/03/26 | JNJ | AVISO DE PAGO JNJ |  | ",
+    "10/03/26 | LLY | AVISO DE PAGO LLY |  | ",
+    "10/03/26 | SNA | AVISO DE PAGO SNA |  | ",
+    "10/03/26 | XOM | AVISO DE PAGO XOM |  | ",
     "06/03/26 | AMGN | AVISO DE PAGO AMGN |  | ",
     "06/03/26 | PFE | AVISO DE PAGO PFE |  | ",
     "05/03/26 | DJNJ3-XD004 | AVISO DE PAGO DJNJ3 |  | ",
@@ -477,14 +485,6 @@
     "30/12/25 | GILD | AVISO DE PAGO GILD |  | ",
     "30/12/25 | GS | AVISO DE PAGO GS |  | ",
     "30/12/25 | LMT | AVISO DE PAGO LMT |  | ",
-    "30/12/25 | UNP | AVISO DE PAGO UNP |  | ",
-    "29/12/25 | AKO.B | AVISO DE PAGO AKO.B |  | ",
-    "29/12/25 | AXIA | AVISO DE PAGO AXIA |  | ",
-    "26/12/25 | ARCO | AVISO DE PAGO ARCO |  | ",
-    "26/12/25 | BAC | AVISO DE PAGO BAC |  | ",
-    "26/12/25 | GDX | AVISO DE PAGO GDX |  | ",
-    "26/12/25 | GRMN | AVISO DE PAGO GRMN |  | ",
-    "26/12/25 | HAL | AVISO DE PAGO HAL |  | ",
-    "26/12/25 | NVDA | AVISO DE PAGO NVDA |  | "
+    "30/12/25 | UNP | AVISO DE PAGO UNP |  | "
   ]
 }
