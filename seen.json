@@ -244,6 +244,12 @@
     "03/10/25 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "11/03/26 | JOYY | ANUNCIO DE DIVIDENDO JOYY |  | ",
+    "11/03/26 | NVS | ANUNCIO DE DIVIDENDO NVS |  | ",
+    "11/03/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | ",
+    "11/03/26 | TGT | ANUNCIO DE DIVIDENDO TGT |  | ",
+    "11/03/26 | USB | ANUNCIO DE DIVIDENDO USB |  | ",
+    "11/03/26 | VALE | ANUNCIO DE DIVIDENDO VALE |  | ",
     "10/03/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
     "10/03/26 | MFG | ANUNCIO DE DIVIDENDO MFG |  | ",
     "10/03/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
@@ -357,15 +363,12 @@
     "11/02/26 | MA | ANUNCIO DE DIVIDENDO MA |  | ",
     "11/02/26 | PHG | ANUNCIO DE DIVIDENDO PHG |  | ",
     "11/02/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
-    "11/02/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
-    "10/02/26 | AZN | ANUNCIO DE DIVIDENDO AZN |  | ",
-    "10/02/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "10/02/26 | BCS | ANUNCIO DE DIVIDENDO BCS |  | ",
-    "10/02/26 | BP | ANUNCIO DE DIVIDENDO BP |  | ",
-    "10/02/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
-    "10/02/26 | TSM | ANUNCIO DE DIVIDENDO TSM |  | "
+    "11/02/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "11/03/26 | SPGI | AVISO DE PAGO SPGI |  | ",
+    "11/03/26 | VALE | AVISO DE PAGO VALE |  | ",
+    "11/03/26 | VALE | AVISO DE PAGO VALE- |  | ",
     "10/03/26 | BBD | AVISO DE PAGO BBD |  | ",
     "10/03/26 | CVX | AVISO DE PAGO CVX |  | ",
     "10/03/26 | IBM | AVISO DE PAGO IBM |  | ",
@@ -482,9 +485,6 @@
     "02/01/26 | VST | AVISO DE PAGO VST |  | ",
     "30/12/25 | AIG | AVISO DE PAGO AIG |  | ",
     "30/12/25 | EMBJ | AVISO DE PAGO EMBJ |  | ",
-    "30/12/25 | GILD | AVISO DE PAGO GILD |  | ",
-    "30/12/25 | GS | AVISO DE PAGO GS |  | ",
-    "30/12/25 | LMT | AVISO DE PAGO LMT |  | ",
-    "30/12/25 | UNP | AVISO DE PAGO UNP |  | "
+    "30/12/25 | GILD | AVISO DE PAGO GILD |  | "
   ]
 }
