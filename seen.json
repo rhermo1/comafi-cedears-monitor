@@ -244,6 +244,10 @@
     "03/10/25 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "13/03/26 |  | ANUNCIO DE DIVIDENDO AMAT |  | ",
+    "13/03/26 | CL | ANUNCIO DE DIVIDENDO CL |  | ",
+    "13/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
+    "13/03/26 | JD | ANUNCIO DE DIVIDENDO JD |  | ",
     "12/03/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "12/03/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
     "12/03/26 | NSANY | ANUNCIO DE DIVIDENDO NSANY |  | ",
@@ -359,13 +363,12 @@
     "12/02/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
     "12/02/26 | MBG GR | ANUNCIO DE DIVIDENDO MBG GR |  | ",
     "12/02/26 | MDLZ | ANUNCIO DE DIVIDENDO MDLZ |  | ",
-    "12/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
-    "11/02/26 | AIG | ANUNCIO DE DIVIDENDO AIG |  | ",
-    "11/02/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
-    "11/02/26 | GILD | ANUNCIO DE DIVIDENDO GILD |  | ",
-    "11/02/26 | GLW | ANUNCIO DE DIVIDENDO GLW |  | "
+    "12/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "13/03/26 | DOW | AVISO DE PAGO DOW |  | ",
+    "13/03/26 | HON | AVISO DE PAGO HON |  | ",
+    "13/03/26 | PAAS | AVISO DE PAGO PAAS |  | ",
     "12/03/26 | AMAT | AVISO DE PAGO AMAT |  | ",
     "12/03/26 | MMM | AVISO DE PAGO MMM |  | ",
     "12/03/26 | MSFT | AVISO DE PAGO MSFT |  | ",
@@ -482,9 +485,6 @@
     "02/01/26 | ITUB | AVISO DE PAGO ITUB |  | ",
     "02/01/26 | NKE | AVISO DE PAGO NKE |  | ",
     "02/01/26 | PBR | AVISO DE PAGO PBR |  | ",
-    "02/01/26 | PBR | AVISO DE PAGO PBR- |  | ",
-    "02/01/26 | PSQ | AVISO DE PAGO PSQ |  | ",
-    "02/01/26 | ROST | AVISO DE PAGO ROST |  | ",
-    "02/01/26 | TRV | AVISO DE PAGO TRV |  | "
+    "02/01/26 | PBR | AVISO DE PAGO PBR- |  | "
   ]
 }
