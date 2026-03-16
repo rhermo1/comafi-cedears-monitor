@@ -244,6 +244,12 @@
     "03/10/25 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "16/03/26 | BCS | ANUNCIO DE DIVIDENDO BCS |  | ",
+    "16/03/26 | DEO | ANUNCIO DE DIVIDENDO DEO |  | ",
+    "16/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI |  | ",
+    "16/03/26 | GFI | ANUNCIO DE DIVIDENDO GFI- |  | ",
+    "16/03/26 | PAGS | ANUNCIO DE DIVIDENDO PAGS |  | ",
+    "16/03/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "13/03/26 |  | ANUNCIO DE DIVIDENDO AMAT |  | ",
     "13/03/26 | CL | ANUNCIO DE DIVIDENDO CL |  | ",
     "13/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
@@ -357,15 +363,15 @@
     "13/02/26 | DOW | ANUNCIO DE DIVIDENDO DOW |  | ",
     "13/02/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | ",
     "13/02/26 | META | ANUNCIO DE DIVIDENDO META |  | ",
-    "13/02/26 | SNA | ANUNCIO DE DIVIDENDO SNA |  | ",
-    "13/02/26 | UL | ANUNCIO DE DIVIDENDO UL |  | ",
-    "13/02/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
-    "12/02/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
-    "12/02/26 | MBG GR | ANUNCIO DE DIVIDENDO MBG GR |  | ",
-    "12/02/26 | MDLZ | ANUNCIO DE DIVIDENDO MDLZ |  | ",
-    "12/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | "
+    "13/02/26 | SNA | ANUNCIO DE DIVIDENDO SNA |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "16/03/26 | AEM | AVISO DE PAGO AEM |  | ",
+    "16/03/26 | B | AVISO DE PAGO B |  | ",
+    "16/03/26 | DD | AVISO DE PAGO DD |  | ",
+    "16/03/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
+    "16/03/26 | HSY | AVISO DE PAGO HSY |  | ",
+    "16/03/26 | NVS | AVISO DE PAGO NVS |  | ",
     "13/03/26 | DOW | AVISO DE PAGO DOW |  | ",
     "13/03/26 | HON | AVISO DE PAGO HON |  | ",
     "13/03/26 | PAAS | AVISO DE PAGO PAAS |  | ",
@@ -479,12 +485,6 @@
     "05/01/26 | KMB | AVISO DE PAGO KMB |  | ",
     "05/01/26 | WMT | AVISO DE PAGO WMT |  | ",
     "02/01/26 | ADP | AVISO DE PAGO ADP |  | ",
-    "02/01/26 | AVGO | AVISO DE PAGO AVGO |  | ",
-    "02/01/26 | BKNG | AVISO DE PAGO BKNG |  | ",
-    "02/01/26 | HPQ | AVISO DE PAGO HPQ |  | ",
-    "02/01/26 | ITUB | AVISO DE PAGO ITUB |  | ",
-    "02/01/26 | NKE | AVISO DE PAGO NKE |  | ",
-    "02/01/26 | PBR | AVISO DE PAGO PBR |  | ",
-    "02/01/26 | PBR | AVISO DE PAGO PBR- |  | "
+    "02/01/26 | AVGO | AVISO DE PAGO AVGO |  | "
   ]
 }
