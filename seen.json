@@ -366,6 +366,19 @@
     "19/02/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "25/03/26 | AZN | AVISO DE PAGO AZN |  | ",
+    "25/03/26 | HAL | AVISO DE PAGO HAL |  | ",
+    "25/03/26 | HL | AVISO DE PAGO HL |  | ",
+    "25/03/26 | PYPL | AVISO DE PAGO PYPL |  | ",
+    "25/03/26 | VEA | AVISO DE PAGO VEA |  | ",
+    "25/03/26 | XLB | AVISO DE PAGO XLB |  | ",
+    "25/03/26 | XLC | AVISO DE PAGO XLC |  | ",
+    "25/03/26 | XLI | AVISO DE PAGO XLI |  | ",
+    "25/03/26 | XLK | AVISO DE PAGO XLK |  | ",
+    "25/03/26 | XLP | AVISO DE PAGO XLP |  | ",
+    "25/03/26 | XLRE | AVISO DE PAGO XLRE |  | ",
+    "25/03/26 | XLV | AVISO DE PAGO XLV |  | ",
+    "25/03/26 | XLY | AVISO DE PAGO XLY |  | ",
     "20/03/26 | CEG | AVISO DE PAGO CEG |  | ",
     "20/03/26 | EBAY | AVISO DE PAGO EBAY |  | ",
     "20/03/26 | ESGU | AVISO DE PAGO ESGU |  | ",
@@ -472,19 +485,6 @@
     "27/01/26 | TTE | AVISO DE PAGO TTE |  | ",
     "26/01/26 | FMX | AVISO DE PAGO FMX |  | ",
     "26/01/26 | FMX | AVISO DE PAGO FMX- |  | ",
-    "26/01/26 | GE | AVISO DE PAGO GE |  | ",
-    "23/01/26 | AAP | AVISO DE PAGO AAP |  | ",
-    "23/01/26 | ING | AVISO DE PAGO ING |  | ",
-    "23/01/26 | ORCL | AVISO DE PAGO ORCL |  | ",
-    "23/01/26 | SSY | AVISO DE PAGO SSY |  | ",
-    "22/01/26 | EMBJ | AVISO DE PAGO EMBJ |  | ",
-    "16/01/26 | JCI | AVISO DE PAGO JCI |  | ",
-    "16/01/26 | MDT | AVISO DE PAGO MDT |  | ",
-    "15/01/26 | CAH | AVISO DE PAGO CAH |  | ",
-    "15/01/26 | DIS | AVISO DE PAGO DIS |  | ",
-    "15/01/26 | ECL | AVISO DE PAGO ECL |  | ",
-    "15/01/26 | MSI | AVISO DE PAGO MSI |  | ",
-    "15/01/26 | TMO | AVISO DE PAGO TMO |  | ",
-    "15/01/26 | USB | AVISO DE PAGO USB |  | "
+    "26/01/26 | GE | AVISO DE PAGO GE |  | "
   ]
 }
