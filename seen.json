@@ -244,6 +244,15 @@
     "09/10/25 | HON | ANUNCIO DE SPIN OFF HONEYWELL INTERNATIONAL INC.(HON)-ISIN ARDEUT110038-Cód.8008 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "26/03/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
+    "26/03/26 | DTEA GR | ANUNCIO DE DIVIDENDO DTEA GR |  | ",
+    "26/03/26 | VIG | ANUNCIO DE DIVIDENDO VIG |  | ",
+    "25/03/26 | FCX | ANUNCIO DE DIVIDENDO FCX |  | ",
+    "25/03/26 | HMY | ANUNCIO DE DIVIDENDO HMY |  | ",
+    "25/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
+    "25/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB- |  | ",
+    "25/03/26 | PSQ | ANUNCIO DE DIVIDENDO PSQ |  | ",
+    "25/03/26 | SPHQ | ANUNCIO DE DIVIDENDO SPHQ |  | ",
     "20/03/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
     "20/03/26 | TMUS | ANUNCIO DE DIVIDENDO TMUS |  | ",
     "20/03/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
@@ -354,18 +363,18 @@
     "20/02/26 | BSN GR | ANUNCIO DE DIVIDENDO BSN GR |  | ",
     "20/02/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
     "20/02/26 | ECL | ANUNCIO DE DIVIDENDO ECL |  | ",
-    "20/02/26 | NEM | ANUNCIO DE DIVIDENDO NEM |  | ",
-    "20/02/26 | NUE | ANUNCIO DE DIVIDENDO NUE |  | ",
-    "20/02/26 | VST | ANUNCIO DE DIVIDENDO VST |  | ",
-    "20/02/26 | XRX | ANUNCIO DE DIVIDENDO XRX |  | ",
-    "19/02/26 | ABBV | ANUNCIO DE DIVIDENDO ABBV |  | ",
-    "19/02/26 |  | ANUNCIO DE DIVIDENDO AEG |  | ",
-    "19/02/26 | BAS GR | ANUNCIO DE DIVIDENDO BAS GR |  | ",
-    "19/02/26 | BKNG | ANUNCIO DE DIVIDENDO BKNG |  | ",
-    "19/02/26 | EBAY | ANUNCIO DE DIVIDENDO EBAY |  | ",
-    "19/02/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | "
+    "20/02/26 | NEM | ANUNCIO DE DIVIDENDO NEM |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "26/03/26 | BHP | AVISO DE PAGO BHP |  | ",
+    "26/03/26 | GFI | AVISO DE PAGO GFI |  | ",
+    "26/03/26 | GFI | AVISO DE PAGO GFI- |  | ",
+    "26/03/26 | GGB | AVISO DE PAGO GGB |  | ",
+    "26/03/26 | HD | AVISO DE PAGO HD |  | ",
+    "26/03/26 | KGC | AVISO DE PAGO KGC |  | ",
+    "26/03/26 | META | AVISO DE PAGO META |  | ",
+    "26/03/26 | NEM | AVISO DE PAGO NEM |  | ",
+    "26/03/26 | QCOM | AVISO DE PAGO QCOM |  | ",
     "25/03/26 | AZN | AVISO DE PAGO AZN |  | ",
     "25/03/26 | HAL | AVISO DE PAGO HAL |  | ",
     "25/03/26 | HL | AVISO DE PAGO HL |  | ",
@@ -476,15 +485,6 @@
     "02/02/26 | FCX | AVISO DE PAGO FCX |  | ",
     "02/02/26 | JPM | AVISO DE PAGO JPM |  | ",
     "02/02/26 | T | AVISO DE PAGO T |  | ",
-    "02/02/26 | VZ | AVISO DE PAGO VZ |  | ",
-    "30/01/26 | DHR | AVISO DE PAGO DHR |  | ",
-    "30/01/26 | XRX | AVISO DE PAGO XRX |  | ",
-    "29/01/26 | ELPC | AVISO DE PAGO ELPC |  | ",
-    "29/01/26 | MRVL | AVISO DE PAGO MRVL |  | ",
-    "28/01/26 | TIMB | AVISO DE PAGO TIMB |  | ",
-    "27/01/26 | TTE | AVISO DE PAGO TTE |  | ",
-    "26/01/26 | FMX | AVISO DE PAGO FMX |  | ",
-    "26/01/26 | FMX | AVISO DE PAGO FMX- |  | ",
-    "26/01/26 | GE | AVISO DE PAGO GE |  | "
+    "02/02/26 | VZ | AVISO DE PAGO VZ |  | "
   ]
 }
