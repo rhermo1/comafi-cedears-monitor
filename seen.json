@@ -244,6 +244,8 @@
     "13/10/25 | UL | ANUNCIO DE  REVERSE STOCK SPLIT-UNILEVER PLC-SPONSORED ADR- CEDEAR 8215- ISIN ARDEUT112091- |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "30/03/26 | TJX | ANUNCIO DE DIVIDENDO TJX |  | ",
+    "30/03/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
     "27/03/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
     "27/03/26 | PBR | ANUNCIO DE DIVIDENDO PBR- |  | ",
     "27/03/26 | SBS | ANUNCIO DE DIVIDENDO SBS |  | ",
@@ -361,11 +363,16 @@
     "25/02/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
     "24/02/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
     "24/02/26 | GRMN | ANUNCIO DE DIVIDENDO GRMN |  | ",
-    "24/02/26 | HD | ANUNCIO DE DIVIDENDO HD |  | ",
-    "23/02/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
-    "20/02/26 | ABT | ANUNCIO DE DIVIDENDO ABT |  | "
+    "24/02/26 | HD | ANUNCIO DE DIVIDENDO HD |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "30/03/26 | AIG | AVISO DE PAGO AIG |  | ",
+    "30/03/26 | GILD | AVISO DE PAGO GILD |  | ",
+    "30/03/26 | GLW | AVISO DE PAGO GLW |  | ",
+    "30/03/26 | PBI | AVISO DE PAGO PBI |  | ",
+    "30/03/26 | PBR | AVISO DE PAGO PBR |  | ",
+    "30/03/26 | PBR | AVISO DE PAGO PBR- |  | ",
+    "30/03/26 | SHEL | AVISO DE PAGO SHEL |  | ",
     "27/03/26 | BAC | AVISO DE PAGO BAC |  | ",
     "27/03/26 | BP | AVISO DE PAGO BP |  | ",
     "27/03/26 | GRMN | AVISO DE PAGO GRMN |  | ",
@@ -478,13 +485,6 @@
     "13/02/26 | MRSH | AVISO DE PAGO MRSH |  | ",
     "12/02/26 | AAPL | AVISO DE PAGO AAPL |  | ",
     "11/02/26 | BBD | AVISO DE PAGO BBD |  | ",
-    "11/02/26 | NUE | AVISO DE PAGO NUE |  | ",
-    "11/02/26 | SUZ | AVISO DE PAGO SUZ |  | ",
-    "10/02/26 | AXP | AVISO DE PAGO AXP |  | ",
-    "10/02/26 | BBD | AVISO DE PAGO BBD |  | ",
-    "10/02/26 | ITUB | AVISO DE PAGO ITUB |  | ",
-    "10/02/26 | TXN | AVISO DE PAGO TXN |  | ",
-    "09/02/26 | DE | AVISO DE PAGO DE |  | ",
-    "09/02/26 | MA | AVISO DE PAGO MA |  | "
+    "11/02/26 | NUE | AVISO DE PAGO NUE |  | "
   ]
 }
