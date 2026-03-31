@@ -244,6 +244,11 @@
     "13/10/25 | UL | ANUNCIO DE  REVERSE STOCK SPLIT-UNILEVER PLC-SPONSORED ADR- CEDEAR 8215- ISIN ARDEUT112091- |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "31/03/26 | BG | ANUNCIO DE DIVIDENDO BG - |  | ",
+    "31/03/26 | BG | ANUNCIO DE DIVIDENDO BG |  | ",
+    "31/03/26 | BG | ANUNCIO DE DIVIDENDO BG- |  | ",
+    "31/03/26 | BG | ANUNCIO DE DIVIDENDO BG-- |  | ",
+    "31/03/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
     "30/03/26 | TJX | ANUNCIO DE DIVIDENDO TJX |  | ",
     "30/03/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
     "27/03/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
@@ -358,14 +363,20 @@
     "27/02/26 | TMO | ANUNCIO DE DIVIDENDO TMO- |  | ",
     "25/02/26 | DE | ANUNCIO DE DIVIDENDO DE |  | ",
     "25/02/26 | DHR | ANUNCIO DE DIVIDENDO DHR |  | ",
-    "25/02/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
-    "25/02/26 | HSBC | ANUNCIO DE DIVIDENDO HSBC |  | ",
-    "25/02/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
-    "24/02/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
-    "24/02/26 | GRMN | ANUNCIO DE DIVIDENDO GRMN |  | ",
-    "24/02/26 | HD | ANUNCIO DE DIVIDENDO HD |  | "
+    "25/02/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "31/03/26 | AVGO | AVISO DE PAGO AVGO |  | ",
+    "31/03/26 | BCS | AVISO DE PAGO BCS |  | ",
+    "31/03/26 | BKNG | AVISO DE PAGO BKNG |  | ",
+    "31/03/26 | GS | AVISO DE PAGO GS |  | ",
+    "31/03/26 | PEP | AVISO DE PAGO PEP |  | ",
+    "31/03/26 | PSQ | AVISO DE PAGO PSQ |  | ",
+    "31/03/26 | ROST | AVISO DE PAGO ROST |  | ",
+    "31/03/26 | TRV | AVISO DE PAGO TRV |  | ",
+    "31/03/26 | UNP | AVISO DE PAGO UNP |  | ",
+    "31/03/26 | VIG | AVISO DE PAGO VIG |  | ",
+    "31/03/26 | VST | AVISO DE PAGO VST |  | ",
     "30/03/26 | AIG | AVISO DE PAGO AIG |  | ",
     "30/03/26 | GILD | AVISO DE PAGO GILD |  | ",
     "30/03/26 | GLW | AVISO DE PAGO GLW |  | ",
@@ -474,17 +485,6 @@
     "18/02/26 | ASML | AVISO DE PAGO ASML |  | ",
     "18/02/26 | BSBR | AVISO DE PAGO BSBR |  | ",
     "18/02/26 | BSBR | AVISO DE PAGO BSBR- |  | ",
-    "18/02/26 | BX | AVISO DE PAGO BX |  | ",
-    "18/02/26 | LVS | AVISO DE PAGO LVS |  | ",
-    "18/02/26 | NOK | AVISO DE PAGO NOK |  | ",
-    "18/02/26 | PG | AVISO DE PAGO PG |  | ",
-    "13/02/26 | ABT | AVISO DE PAGO ABT |  | ",
-    "13/02/26 | ACN | AVISO DE PAGO ACN |  | ",
-    "13/02/26 | CL | AVISO DE PAGO CL |  | ",
-    "13/02/26 | COST | AVISO DE PAGO COST |  | ",
-    "13/02/26 | MRSH | AVISO DE PAGO MRSH |  | ",
-    "12/02/26 | AAPL | AVISO DE PAGO AAPL |  | ",
-    "11/02/26 | BBD | AVISO DE PAGO BBD |  | ",
-    "11/02/26 | NUE | AVISO DE PAGO NUE |  | "
+    "18/02/26 | BX | AVISO DE PAGO BX |  | "
   ]
 }
