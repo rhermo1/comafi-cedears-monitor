@@ -366,6 +366,13 @@
     "25/02/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "01/04/26 | ADP | AVISO DE PAGO ADP |  | ",
+    "01/04/26 | FDX | AVISO DE PAGO FDX |  | ",
+    "01/04/26 | GPRK | AVISO DE PAGO GPRK |  | ",
+    "01/04/26 | HPQ | AVISO DE PAGO HPQ |  | ",
+    "01/04/26 | KO | AVISO DE PAGO KO |  | ",
+    "01/04/26 | NKE | AVISO DE PAGO NKE |  | ",
+    "01/04/26 | NVDA | AVISO DE PAGO NVDA |  | ",
     "31/03/26 | AVGO | AVISO DE PAGO AVGO |  | ",
     "31/03/26 | BCS | AVISO DE PAGO BCS |  | ",
     "31/03/26 | BKNG | AVISO DE PAGO BKNG |  | ",
@@ -478,13 +485,6 @@
     "27/02/26 | SCCO | AVISO DE PAGO SCCO |  | ",
     "27/02/26 | VRSN | AVISO DE PAGO VRSN |  | ",
     "25/02/26 | BKNG | ANUNCIO DE STOCK SPLIT BOOKING HOLDINGS INC.(BKNG)-ISIN AR0171546572-Cód.8639 |  | ",
-    "25/02/26 | HWM | AVISO DE PAGO HWM |  | ",
-    "24/02/26 | SIEGY | AVISO DE PAGO SIEGY |  | ",
-    "19/02/26 |  | AVISO DE PAGO CAT |  | ",
-    "18/02/26 | ABBV | AVISO DE PAGO ABBV |  | ",
-    "18/02/26 | ASML | AVISO DE PAGO ASML |  | ",
-    "18/02/26 | BSBR | AVISO DE PAGO BSBR |  | ",
-    "18/02/26 | BSBR | AVISO DE PAGO BSBR- |  | ",
-    "18/02/26 | BX | AVISO DE PAGO BX |  | "
+    "25/02/26 | HWM | AVISO DE PAGO HWM |  | "
   ]
 }
