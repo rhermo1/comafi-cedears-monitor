@@ -244,6 +244,10 @@
     "14/10/25 | BRFS | ANUNCIO DE INFORMACIÓN RELEVANTE - BRF S.A. (BRFS) -ISIN ARBCOM460218-Cód.8510- BAJA DEL PROGRAMA |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "08/04/26 | ADP | ANUNCIO DE DIVIDENDO ADP |  | ",
+    "08/04/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
+    "08/04/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
+    "08/04/26 | TX | ANUNCIO DE DIVIDENDO TX |  | ",
     "07/04/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "07/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
     "07/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX- |  | ",
@@ -359,13 +363,11 @@
     "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 10.11.2026 |  | ",
     "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 11.8.2026 |  | ",
     "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.2.2027 |  | ",
-    "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.5.2026 |  | ",
-    "27/02/26 | NVDA | ANUNCIO DE DIVIDENDO NVDA |  | ",
-    "27/02/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
-    "27/02/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
-    "27/02/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | "
+    "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.5.2026 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "08/04/26 | E | AVISO DE PAGO E |  | ",
+    "08/04/26 | LRCX | AVISO DE PAGO LRCX |  | ",
     "07/04/26 | MRK | AVISO DE PAGO MRK |  | ",
     "06/04/26 | ARCO | AVISO DE PAGO ARCO |  | ",
     "06/04/26 | KMB | AVISO DE PAGO KMB |  | ",
@@ -483,8 +485,6 @@
     "02/03/26 | TGT | AVISO DE PAGO TGT |  | ",
     "02/03/26 | V | AVISO DE PAGO V |  | ",
     "02/03/26 | WFC | AVISO DE PAGO WFC |  | ",
-    "27/02/26 | BKR | AVISO DE PAGO BKR |  | ",
-    "27/02/26 | C | AVISO DE PAGO C |  | ",
-    "27/02/26 | CCL | AVISO DE PAGO CCL |  | "
+    "27/02/26 | BKR | AVISO DE PAGO BKR |  | "
   ]
 }
