@@ -244,6 +244,7 @@
     "20/10/25 | HON | ANUNCIO DE SPIN OFF HONEYWELL INTERNATIONAL INC.(HON)-ISIN ARDEUT110038-Cód.8008-ACTUALIZACIÓN 20.10.25 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "10/04/26 | ABEV | ANUNCIO DE DIVIDENDO ABEV |  | ",
     "08/04/26 | ADP | ANUNCIO DE DIVIDENDO ADP |  | ",
     "08/04/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "08/04/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
@@ -362,10 +363,13 @@
     "27/02/26 | MSI | ANUNCIO DE DIVIDENDO MSI |  | ",
     "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 10.11.2026 |  | ",
     "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 11.8.2026 |  | ",
-    "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.2.2027 |  | ",
-    "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.5.2026 |  | "
+    "27/02/26 | NOK | ANUNCIO DE DIVIDENDO NOK PD 12.2.2027 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "10/04/26 | IFF | AVISO DE PAGO IFF |  | ",
+    "10/04/26 | ITUB | AVISO DE PAGO ITUB |  | ",
+    "10/04/26 | JCI | AVISO DE PAGO JCI |  | ",
+    "10/04/26 | UL | AVISO DE PAGO UL |  | ",
     "09/04/26 | BBD | AVISO DE PAGO BBD |  | ",
     "09/04/26 | GSK | AVISO DE PAGO GSK |  | ",
     "09/04/26 | TSM | AVISO DE PAGO TSM |  | ",
@@ -481,10 +485,6 @@
     "06/03/26 | PFE | AVISO DE PAGO PFE |  | ",
     "05/03/26 | DJNJ3-XD004 | AVISO DE PAGO DJNJ3 |  | ",
     "05/03/26 | TJX | AVISO DE PAGO TJX |  | ",
-    "04/03/26 | PCAR | AVISO DE PAGO PCAR |  | ",
-    "04/03/26 | PSX | AVISO DE PAGO PSX |  | ",
-    "03/03/26 | BG | AVISO DE PAGO BG |  | ",
-    "02/03/26 | PBR | AVISO DE PAGO PBR |  | ",
-    "02/03/26 | TGT | AVISO DE PAGO TGT |  | "
+    "04/03/26 | PCAR | AVISO DE PAGO PCAR |  | "
   ]
 }
