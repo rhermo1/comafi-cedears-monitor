@@ -366,6 +366,11 @@
     "27/02/26 | MO | ANUNCIO DE DIVIDENDO MO |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "15/04/26 | CAH | AVISO DE PAGO CAH |  | ",
+    "15/04/26 | ECL | AVISO DE PAGO ECL |  | ",
+    "15/04/26 | MSI | AVISO DE PAGO MSI |  | ",
+    "15/04/26 | TMO | AVISO DE PAGO TMO |  | ",
+    "15/04/26 | USB | AVISO DE PAGO USB |  | ",
     "14/04/26 | MDLZ | AVISO DE PAGO MDLZ |  | ",
     "13/04/26 | PM | AVISO DE PAGO PM |  | ",
     "10/04/26 | IFF | AVISO DE PAGO IFF |  | ",
@@ -480,11 +485,6 @@
     "10/03/26 | IBM | AVISO DE PAGO IBM |  | ",
     "10/03/26 | ITUB | AVISO DE PAGO ITUB |  | ",
     "10/03/26 | JNJ | AVISO DE PAGO JNJ |  | ",
-    "10/03/26 | LLY | AVISO DE PAGO LLY |  | ",
-    "10/03/26 | SNA | AVISO DE PAGO SNA |  | ",
-    "10/03/26 | XOM | AVISO DE PAGO XOM |  | ",
-    "06/03/26 | AMGN | AVISO DE PAGO AMGN |  | ",
-    "06/03/26 | PFE | AVISO DE PAGO PFE |  | ",
-    "05/03/26 | DJNJ3-XD004 | AVISO DE PAGO DJNJ3 |  | "
+    "10/03/26 | LLY | AVISO DE PAGO LLY |  | "
   ]
 }
