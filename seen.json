@@ -244,6 +244,10 @@
     "22/10/25 | BAK | BANCO COMAFI - PROGRAMA CEDEARS BRASKEM SA Cod. CDV. 8591- AR0261973801- INFORMACION RELEVANTE |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "17/04/26 | PBR | ANUNCIO DE DIVIDENDO PBR PD 29.6.2026- |  | ",
+    "17/04/26 | PBR | ANUNCIO DE DIVIDENDO PBR-PD 28.5.2026 |  | ",
+    "17/04/26 | QCOM | ANUNCIO DE DIVIDENDO QCOM |  | ",
+    "17/04/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "16/04/26 | BK | ANUNCIO DE DIVIDENDO BK |  | ",
     "16/04/26 | COST | ANUNCIO DE DIVIDENDO COST |  | ",
     "16/04/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
@@ -359,13 +363,12 @@
     "04/03/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
     "04/03/26 | JCI | ANUNCIO DE DIVIDENDO JCI |  | ",
     "04/03/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
-    "04/03/26 | ROST | ANUNCIO DE DIVIDENDO ROST |  | ",
-    "04/03/26 | SAN | ANUNCIO DE DIVIDENDO SAN |  | ",
-    "04/03/26 | VALE | ANUNCIO DE DIVIDENDO VALE |  | ",
-    "03/03/26 | AXP | ANUNCIO DE DIVIDENDO AXP |  | ",
-    "03/03/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | "
+    "04/03/26 | ROST | ANUNCIO DE DIVIDENDO ROST |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "17/04/26 | ABEV | AVISO DE PAGO ABEV |  | ",
+    "17/04/26 | ERIC | AVISO DE PAGO ERIC |  | ",
+    "17/04/26 | MDT | AVISO DE PAGO MDT |  | ",
     "16/04/26 | RIO | AVISO DE PAGO RIO |  | ",
     "15/04/26 | CAH | AVISO DE PAGO CAH |  | ",
     "15/04/26 | ECL | AVISO DE PAGO ECL |  | ",
@@ -482,9 +485,6 @@
     "11/03/26 | VALE | AVISO DE PAGO VALE |  | ",
     "11/03/26 | VALE | AVISO DE PAGO VALE- |  | ",
     "10/03/26 | BBD | AVISO DE PAGO BBD |  | ",
-    "10/03/26 | CVX | AVISO DE PAGO CVX |  | ",
-    "10/03/26 | IBM | AVISO DE PAGO IBM |  | ",
-    "10/03/26 | ITUB | AVISO DE PAGO ITUB |  | ",
-    "10/03/26 | JNJ | AVISO DE PAGO JNJ |  | "
+    "10/03/26 | CVX | AVISO DE PAGO CVX |  | "
   ]
 }
