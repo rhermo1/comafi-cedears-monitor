@@ -244,6 +244,18 @@
     "05/11/25 | TTE | ANUNCIO DE EXCHANGE TOTAL ENERGIES SE- ADR (TTE)-ISIN ARDEUT112075-Cód.8213 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "23/04/26 | BAC | ANUNCIO DE DIVIDENDO BAC |  | ",
+    "23/04/26 | BKR | ANUNCIO DE DIVIDENDO BKR |  | ",
+    "23/04/26 | BX | ANUNCIO DE DIVIDENDO BX |  | ",
+    "23/04/26 | HWM | ANUNCIO DE DIVIDENDO HWM |  | ",
+    "23/04/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
+    "23/04/26 | LVS | ANUNCIO DE DIVIDENDO LVS |  | ",
+    "23/04/26 | NEM | ANUNCIO DE DIVIDENDO NEM |  | ",
+    "23/04/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
+    "23/04/26 | PFE | ANUNCIO DE DIVIDENDO PFE |  | ",
+    "23/04/26 | SCHW | ANUNCIO DE DIVIDENDO SCHW |  | ",
+    "23/04/26 | TIMB | ANUNCIO DE DIVIDENDO TIMB |  | ",
+    "23/04/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | ",
     "22/04/26 | IBM | ANUNCIO DE DIVIDENDO IBM |  | ",
     "22/04/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
     "22/04/26 | KEP | ANUNCIO DE DIVIDENDO KEP |  | ",
@@ -351,21 +363,13 @@
     "11/03/26 | VALE | ANUNCIO DE DIVIDENDO VALE |  | ",
     "10/03/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
     "10/03/26 | MFG | ANUNCIO DE DIVIDENDO MFG |  | ",
-    "10/03/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
-    "10/03/26 | ORCL | ANUNCIO DE DIVIDENDO ORCL |  | ",
-    "10/03/26 | TM | ANUNCIO DE DIVIDENDO TM |  | ",
-    "09/03/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "09/03/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
-    "06/03/26 | MDT | ANUNCIO DE DIVIDENDO MDT |  | ",
-    "06/03/26 | TS | ANUNCIO DE DIVIDENDO TS |  | ",
-    "05/03/26 | AMGN | ANUNCIO DE DIVIDENDO AMGN |  | ",
-    "05/03/26 | AVGO | ANUNCIO DE DIVIDENDO AVGO |  | ",
-    "05/03/26 | IFF | ANUNCIO DE DIVIDENDO IFF |  | ",
-    "05/03/26 | PM | ANUNCIO DE DIVIDENDO PM |  | ",
-    "04/03/26 | ADS | ANUNCIO DE DIVIDENDO ADS |  | ",
-    "04/03/26 | BAYN GR | ANUNCIO DE DIVIDENDO BAYN GR |  | "
+    "10/03/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "23/04/26 | CRM | AVISO DE PAGO CRM |  | ",
+    "23/04/26 | ERIC | AVISO DE PAGO ERIC - RECTIFICATIVO |  | ",
+    "23/04/26 | KB | AVISO DE PAGO KB |  | ",
+    "23/04/26 | TTE | AVISO DE PAGO TTE |  | ",
     "22/04/26 | CSCO | AVISO DE PAGO CSCO |  | ",
     "21/04/26 | MBG GR | AVISO DE PAGO MBG GR |  | ",
     "20/04/26 | HDB | ANUNCIO DE DIVIDENDO HDB |  | ",
@@ -481,10 +485,6 @@
     "16/03/26 | HSY | AVISO DE PAGO HSY |  | ",
     "16/03/26 | NVS | AVISO DE PAGO NVS |  | ",
     "13/03/26 | DOW | AVISO DE PAGO DOW |  | ",
-    "13/03/26 | HON | AVISO DE PAGO HON |  | ",
-    "13/03/26 | PAAS | AVISO DE PAGO PAAS |  | ",
-    "12/03/26 | AMAT | AVISO DE PAGO AMAT |  | ",
-    "12/03/26 | MMM | AVISO DE PAGO MMM |  | ",
-    "12/03/26 | MSFT | AVISO DE PAGO MSFT |  | "
+    "13/03/26 | HON | AVISO DE PAGO HON |  | "
   ]
 }
