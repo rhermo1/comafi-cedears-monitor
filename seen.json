@@ -366,6 +366,10 @@
     "08/04/26 | ADP | ANUNCIO DE DIVIDENDO ADP |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "11/05/26 | BX | AVISO DE PAGO BX |  | ",
+    "11/05/26 | NUE | AVISO DE PAGO NUE |  | ",
+    "11/05/26 | SBS | AVISO DE PAGO SBS |  | ",
+    "11/05/26 | SBS | AVISO DE PAGO SBS- |  | ",
     "08/05/26 | AXP | AVISO DE PAGO AXP |  | ",
     "08/05/26 | BK | AVISO DE PAGO BK |  | ",
     "08/05/26 | DE | AVISO DE PAGO DE |  | ",
@@ -481,10 +485,6 @@
     "30/03/26 | PBI | AVISO DE PAGO PBI |  | ",
     "30/03/26 | PBR | AVISO DE PAGO PBR |  | ",
     "30/03/26 | PBR | AVISO DE PAGO PBR- |  | ",
-    "30/03/26 | SHEL | AVISO DE PAGO SHEL |  | ",
-    "27/03/26 | BAC | AVISO DE PAGO BAC |  | ",
-    "27/03/26 | BP | AVISO DE PAGO BP |  | ",
-    "27/03/26 | GRMN | AVISO DE PAGO GRMN |  | ",
-    "27/03/26 | LMT | AVISO DE PAGO LMT |  | "
+    "30/03/26 | SHEL | AVISO DE PAGO SHEL |  | "
   ]
 }
