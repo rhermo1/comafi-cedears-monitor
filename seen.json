@@ -244,6 +244,12 @@
     "19/11/25 | XLRE | ANUNCIO DE CAMBIO DE NOMBRE XLC-XLY-XLP-XLV-XLB-XLI-XLRE-XLK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "13/05/26 | BABA | ANUNCIO DE DIVIDENDO BABA |  | ",
+    "13/05/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
+    "13/05/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
+    "13/05/26 | LMT | ANUNCIO DE DIVIDENDO LMT |  | ",
+    "13/05/26 | MMM | ANUNCIO DE DIVIDENDO MMM |  | ",
+    "13/05/26 | VOD | ANUNCIO DE DIVIDENDO VOD |  | ",
     "12/05/26 | ABEV | ANUNCIO DE DIVIDENDO ABEV |  | ",
     "12/05/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
     "12/05/26 | PBR | ANUNCIO DE DIVIDENDO PBR PD 27.8.2026 |  | ",
@@ -357,15 +363,11 @@
     "16/04/26 | COST | ANUNCIO DE DIVIDENDO COST |  | ",
     "16/04/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
     "16/04/26 | ELPC | ANUNCIO DE DIVIDENDO ELPC |  | ",
-    "16/04/26 | SBUX | ANUNCIO DE DIVIDENDO SBUX |  | ",
-    "16/04/26 | TRV | ANUNCIO DE DIVIDENDO TRV |  | ",
-    "16/04/26 | TXN | ANUNCIO DE DIVIDENDO TXN |  | ",
-    "15/04/26 | ABEV | ANUNCIO DE DIVIDENDO ABEV |  | ",
-    "15/04/26 | PG | ANUNCIO DE DIVIDENDO PG |  | ",
-    "15/04/26 | SAP | ANUNCIO DE DIVIDENDO SAP |  | ",
-    "15/04/26 | STNE | ANUNCIO DE DIVIDENDO STNE |  | "
+    "16/04/26 | SBUX | ANUNCIO DE DIVIDENDO SBUX |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "13/05/26 | ADS | AVISO DE PAGO ADS |  | ",
+    "13/05/26 | LVS | AVISO DE PAGO LVS |  | ",
     "12/05/26 | BBD | AVISO DE PAGO BBD |  | ",
     "12/05/26 | ITUB | AVISO DE PAGO ITUB |  | ",
     "12/05/26 | NOK | AVISO DE PAGO NOK |  | ",
@@ -483,8 +485,6 @@
     "31/03/26 | VIG | AVISO DE PAGO VIG |  | ",
     "31/03/26 | VST | AVISO DE PAGO VST |  | ",
     "30/03/26 | AIG | AVISO DE PAGO AIG |  | ",
-    "30/03/26 | GILD | AVISO DE PAGO GILD |  | ",
-    "30/03/26 | GLW | AVISO DE PAGO GLW |  | ",
-    "30/03/26 | PBI | AVISO DE PAGO PBI |  | "
+    "30/03/26 | GILD | AVISO DE PAGO GILD |  | "
   ]
 }
