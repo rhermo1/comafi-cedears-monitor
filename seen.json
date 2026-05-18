@@ -244,6 +244,9 @@
     "19/11/25 | XLI | ANUNCIO DE CAMBIO DE NOMBRE XLC-XLY-XLP-XLV-XLB-XLI-XLRE-XLK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "18/05/26 | MSI | ANUNCIO DE DIVIDENDO MSI |  | ",
+    "18/05/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
+    "18/05/26 | XP | ANUNCIO DE DIVIDENDO XP |  | ",
     "15/05/26 | MRSH | ANUNCIO DE DIVIDENDO MRSH |  | ",
     "14/05/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "14/05/26 | CDE | ANUNCIO DE DIVIDENDO CDE |  | ",
@@ -360,12 +363,10 @@
     "23/04/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | ",
     "22/04/26 | IBM | ANUNCIO DE DIVIDENDO IBM |  | ",
     "22/04/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
-    "22/04/26 | KEP | ANUNCIO DE DIVIDENDO KEP |  | ",
-    "21/04/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | ",
-    "21/04/26 | MBG GR | ANUNCIO DE DIVIDENDO MBG GR |  | ",
-    "17/04/26 | PBR | ANUNCIO DE DIVIDENDO PBR PD 29.6.2026- |  | "
+    "22/04/26 | KEP | ANUNCIO DE DIVIDENDO KEP |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "18/05/26 | BSBR | AVISO DE PAGO BSBR |  | ",
     "15/05/26 | ABBV | AVISO DE PAGO ABBV |  | ",
     "15/05/26 | ABT | AVISO DE PAGO ABT |  | ",
     "15/05/26 | ACN | AVISO DE PAGO ACN |  | ",
@@ -484,7 +485,6 @@
     "01/04/26 | KO | AVISO DE PAGO KO |  | ",
     "01/04/26 | NKE | AVISO DE PAGO NKE |  | ",
     "01/04/26 | NVDA | AVISO DE PAGO NVDA |  | ",
-    "31/03/26 | AVGO | AVISO DE PAGO AVGO |  | ",
-    "31/03/26 | BCS | AVISO DE PAGO BCS |  | "
+    "31/03/26 | AVGO | AVISO DE PAGO AVGO |  | "
   ]
 }
