@@ -244,6 +244,8 @@
     "19/11/25 | XLP | ANUNCIO DE CAMBIO DE NOMBRE XLC-XLY-XLP-XLV-XLB-XLI-XLRE-XLK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "26/05/26 | MRK | ANUNCIO DE DIVIDENDO MRK |  | ",
+    "26/05/26 | NTES | ANUNCIO DE DIVIDENDO NTES |  | ",
     "22/05/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
     "22/05/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
     "22/05/26 | HOG | ANUNCIO DE DIVIDENDO HOG |  | ",
@@ -361,11 +363,11 @@
     "29/04/26 | VIV | ANUNCIO DE DIVIDENDO VIV - RD 28-07-25 |  | ",
     "29/04/26 | VIV | ANUNCIO DE DIVIDENDO VIV RD 30.12.2025 |  | ",
     "28/04/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
-    "28/04/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
-    "28/04/26 | BP | ANUNCIO DE DIVIDENDO BP |  | ",
-    "28/04/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | "
+    "28/04/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "26/05/26 | HWM | AVISO DE PAGO HWM |  | ",
+    "26/05/26 | WMT | AVISO DE PAGO WMT |  | ",
     "22/05/26 | C | AVISO DE PAGO C |  | ",
     "22/05/26 | WB | AVISO DE PAGO WB |  | ",
     "20/05/26 | TX | AVISO DE PAGO TX |  | ",
@@ -483,8 +485,6 @@
     "06/04/26 | SLB | AVISO DE PAGO SLB |  | ",
     "06/04/26 | WMT | AVISO DE PAGO WMT |  | ",
     "06/04/26 | C | ANUNCIO DE DIVIDENDO C |  | ",
-    "06/04/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
-    "01/04/26 | ADP | AVISO DE PAGO ADP |  | ",
-    "01/04/26 | FDX | AVISO DE PAGO FDX |  | "
+    "06/04/26 | E | ANUNCIO DE DIVIDENDO E |  | "
   ]
 }
