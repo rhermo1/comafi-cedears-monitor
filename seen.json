@@ -366,6 +366,14 @@
     "29/04/26 | TIMB | ANUNCIO DE DIVIDENDO TIMB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "01/06/26 | BG | AVISO DE PAGO BG |  | ",
+    "01/06/26 | PAAS | AVISO DE PAGO PAAS |  | ",
+    "01/06/26 | PAGS | AVISO DE PAGO PAGS |  | ",
+    "01/06/26 | PBR | AVISO DE PAGO PBR |  | ",
+    "01/06/26 | PSX | AVISO DE PAGO PSX |  | ",
+    "01/06/26 | TGT | AVISO DE PAGO TGT |  | ",
+    "01/06/26 | V | AVISO DE PAGO V |  | ",
+    "01/06/26 | WFC | AVISO DE PAGO WFC |  | ",
     "29/05/26 | CCL | AVISO DE PAGO CCL |  | ",
     "29/05/26 | DD | AVISO DE PAGO DD |  | ",
     "29/05/26 | KB | AVISO DE PAGO KB |  | ",
@@ -477,14 +485,6 @@
     "16/04/26 | RIO | AVISO DE PAGO RIO |  | ",
     "15/04/26 | CAH | AVISO DE PAGO CAH |  | ",
     "15/04/26 | ECL | AVISO DE PAGO ECL |  | ",
-    "15/04/26 | MSI | AVISO DE PAGO MSI |  | ",
-    "15/04/26 | TMO | AVISO DE PAGO TMO |  | ",
-    "15/04/26 | USB | AVISO DE PAGO USB |  | ",
-    "14/04/26 | MDLZ | AVISO DE PAGO MDLZ |  | ",
-    "13/04/26 | PM | AVISO DE PAGO PM |  | ",
-    "10/04/26 | IFF | AVISO DE PAGO IFF |  | ",
-    "10/04/26 | ITUB | AVISO DE PAGO ITUB |  | ",
-    "10/04/26 | JCI | AVISO DE PAGO JCI |  | ",
-    "10/04/26 | UL | AVISO DE PAGO UL |  | "
+    "15/04/26 | MSI | AVISO DE PAGO MSI |  | "
   ]
 }
