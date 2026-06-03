@@ -244,6 +244,10 @@
     "19/11/25 | XLC | ANUNCIO DE CAMBIO DE NOMBRE XLC-XLY-XLP-XLV-XLB-XLI-XLRE-XLK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "03/06/26 | AVGO | AUNCIO DE DIVIDENDO AVGO |  | ",
+    "03/06/26 | JCI | AUNCIO DE DIVIDENDO JCI |  | ",
+    "03/06/26 | MDT | AUNCIO DE DIVIDENDO MDT |  | ",
+    "03/06/26 | UNH | AUNCIO DE DIVIDENDO UNH |  | ",
     "02/06/26 | E | AUNCIO DE DIVIDENDO E |  | ",
     "02/06/26 | ITUB | AUNCIO DE DIVIDENDO ITUB |  | ",
     "02/06/26 | PHG | AUNCIO DE DIVIDENDO PHG PD 3.6.2026 |  | ",
@@ -359,13 +363,10 @@
     "04/05/26 | VALE | AVISO DE PAGO VALE RD 12-12 |  | ",
     "30/04/26 | AVY | ANUNCIO DE DIVIDENDO AVY |  | ",
     "30/04/26 | EBAY | ANUNCIO DE DIVIDENDO EBAY |  | ",
-    "30/04/26 | GLW | ANUNCIO DE DIVIDENDO GLW |  | ",
-    "30/04/26 | GOOGL | ANUNCIO DE DIVIDENDO GOOGL |  | ",
-    "30/04/26 | HMY | ANUNCIO DE DIVIDENDO HMY |  | ",
-    "30/04/26 | HSY | ANUNCIO DE DIVIDENDO HSY |  | ",
-    "30/04/26 | IFF | ANUNCIO DE DIVIDENDO IFF |  | "
+    "30/04/26 | GLW | ANUNCIO DE DIVIDENDO GLW |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "03/06/26 | PCAR | AVISO DE PAGO PCAR |  | ",
     "01/06/26 | BG | AVISO DE PAGO BG |  | ",
     "01/06/26 | PAAS | AVISO DE PAGO PAAS |  | ",
     "01/06/26 | PAGS | AVISO DE PAGO PAGS |  | ",
@@ -484,7 +485,6 @@
     "17/04/26 | MDT | AVISO DE PAGO MDT |  | ",
     "16/04/26 | RIO | AVISO DE PAGO RIO |  | ",
     "15/04/26 | CAH | AVISO DE PAGO CAH |  | ",
-    "15/04/26 | ECL | AVISO DE PAGO ECL |  | ",
-    "15/04/26 | MSI | AVISO DE PAGO MSI |  | "
+    "15/04/26 | ECL | AVISO DE PAGO ECL |  | "
   ]
 }
