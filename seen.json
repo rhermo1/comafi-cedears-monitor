@@ -244,6 +244,9 @@
     "19/11/25 | XLC | ANUNCIO DE CAMBIO DE NOMBRE XLC-XLY-XLP-XLV-XLB-XLI-XLRE-XLK |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "04/06/26 | ITUB | Anuncio de dividendo ITUB-PD 08-06-2026 |  | ",
+    "04/06/26 | ITUB | Anuncio de dividendo ITUB-PD 10-08-2026 |  | ",
+    "04/06/26 | TM | Anuncio de dividendo TM |  | ",
     "04/06/26 | ITUB | Anuncio de dividendo ITUB-RECTIFICATIVO |  | ",
     "03/06/26 | AVGO | AUNCIO DE DIVIDENDO AVGO |  | ",
     "03/06/26 | JCI | AUNCIO DE DIVIDENDO JCI |  | ",
@@ -360,12 +363,14 @@
     "04/05/26 | UL | ANUNCIO DE DIVIDENDO UL |  | ",
     "04/05/26 | VST | ANUNCIO DE DIVIDENDO VST |  | ",
     "04/05/26 | XOM | ANUNCIO DE DIVIDENDO XOM |  | ",
-    "04/05/26 | VALE | AVISO DE PAGO VALE RD 10-3 |  | ",
-    "04/05/26 | VALE | AVISO DE PAGO VALE RD 12-12 |  | ",
-    "30/04/26 | AVY | ANUNCIO DE DIVIDENDO AVY |  | ",
-    "30/04/26 | EBAY | ANUNCIO DE DIVIDENDO EBAY |  | "
+    "04/05/26 | VALE | AVISO DE PAGO VALE RD 10-3 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "04/06/26 | DAL | AVISO DE PAGO DAL |  | ",
+    "04/06/26 | DEO | AVISO DE PAGO DEO |  | ",
+    "04/06/26 | GPRK | AVISO DE PAGO GPRK |  | ",
+    "04/06/26 | KGC | AVISO DE PAGO KGC |  | ",
+    "04/06/26 | TJX | AVISO DE PAGO TJX |  | ",
     "03/06/26 | PCAR | AVISO DE PAGO PCAR |  | ",
     "01/06/26 | BG | AVISO DE PAGO BG |  | ",
     "01/06/26 | PAAS | AVISO DE PAGO PAAS |  | ",
@@ -480,11 +485,6 @@
     "20/04/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
     "20/04/26 | SYY | ANUNCIO DE DIVIDENDO SYY |  | ",
     "20/04/26 | TX | ANUNCIO DE DIVIDENDO TX |  | ",
-    "17/04/26 | ABEV | AVISO DE PAGO ABEV |  | ",
-    "17/04/26 | ERIC | AVISO DE PAGO ERIC |  | ",
-    "17/04/26 | MDT | AVISO DE PAGO MDT |  | ",
-    "16/04/26 | RIO | AVISO DE PAGO RIO |  | ",
-    "15/04/26 | CAH | AVISO DE PAGO CAH |  | ",
-    "15/04/26 | ECL | AVISO DE PAGO ECL |  | "
+    "17/04/26 | ABEV | AVISO DE PAGO ABEV |  | "
   ]
 }
