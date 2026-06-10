@@ -244,6 +244,14 @@
     "05/12/25 | OGZD | INFORMACION RELAVANTE- PROGRAMA CEDEARS ADRs GAZPROM (OGZD)-Cód.8379-ISIN ARDEUT114261-05.12.25 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "10/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
+    "10/06/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
+    "10/06/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
+    "10/06/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
+    "10/06/26 | HPPD LI | ANUNCIO DE DIVIDENDO HPPD LI |  | ",
+    "10/06/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | ",
+    "10/06/26 | ORCL | ANUNCIO DE DIVIDENDO ORCL |  | ",
+    "10/06/26 | YZCAY | ANUNCIO DE DIVIDENDO YZCAY |  | ",
     "09/06/26 | AMAT | ANUNCIO DE DIVIDENDO AMAT |  | ",
     "09/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
     "09/06/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | ",
@@ -355,17 +363,19 @@
     "06/05/26 | EA | ANUNCIO DE DIVIDENDO EA |  | ",
     "06/05/26 | EQNR | ANUNCIO DE DIVIDENDO EQNR |  | ",
     "06/05/26 | HL | ANUNCIO DE DIVIDENDO HL |  | ",
-    "06/05/26 | PAAS | ANUNCIO DE DIVIDENDO PAAS |  | ",
-    "06/05/26 | PBI | ANUNCIO DE DIVIDENDO PBI |  | ",
-    "06/05/26 | SWKS | ANUNCIO DE DIVIDENDO SWKS |  | ",
-    "05/05/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | ",
-    "05/05/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
-    "05/05/26 | HSBC | ANUNCIO DE DIVIDENDO HSBC |  | ",
-    "05/05/26 | NKE | ANUNCIO DE DIVIDENDO NKE |  | ",
-    "05/05/26 | PYPL | ANUNCIO DE DIVIDENDO PYPL |  | ",
-    "05/05/26 | SAN | ANUNCIO DE DIVIDENDO SAN |  | "
+    "06/05/26 | PAAS | ANUNCIO DE DIVIDENDO PAAS |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "10/06/26 | CDE | AVISO DE PAGO CDE |  | ",
+    "10/06/26 | CVX | AVISO DE PAGO CVX |  | ",
+    "10/06/26 | GLNG | AVISO DE PAGO GLNG |  | ",
+    "10/06/26 | HL | AVISO DE PAGO HL |  | ",
+    "10/06/26 | IBM | AVISO DE PAGO IBM |  | ",
+    "10/06/26 | LLY | AVISO DE PAGO LLY |  | ",
+    "10/06/26 | SNA | AVISO DE PAGO SNA |  | ",
+    "10/06/26 | SPGI | AVISO DE PAGO SPGI |  | ",
+    "10/06/26 | TM | AVISO DE PAGO TM |  | ",
+    "10/06/26 | XOM | AVISO DE PAGO XOM |  | ",
     "09/06/26 | BBD | AVISO DE PAGO BBD |  | ",
     "09/06/26 | ITUB | AVISO DE PAGO ITUB |  | ",
     "09/06/26 | JNJ | AVISO DE PAGO JNJ |  | ",
@@ -475,16 +485,6 @@
     "27/04/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
     "27/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
     "27/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX- |  | ",
-    "27/04/26 | HON | ANUNCIO DE DIVIDENDO HON |  | ",
-    "27/04/26 | ING | ANUNCIO DE DIVIDENDO ING |  | ",
-    "27/04/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
-    "27/04/26 | SUZ | ANUNCIO DE DIVIDENDO SUZ |  | ",
-    "24/04/26 | AAP | AVISO DE PAGO AAP |  | ",
-    "24/04/26 | DHR | AVISO DE PAGO DHR |  | ",
-    "24/04/26 | ORCL | AVISO DE PAGO ORCL |  | ",
-    "24/04/26 | SYY | AVISO DE PAGO SYY |  | ",
-    "23/04/26 | CRM | AVISO DE PAGO CRM |  | ",
-    "23/04/26 | ERIC | AVISO DE PAGO ERIC - RECTIFICATIVO |  | ",
-    "23/04/26 | KB | AVISO DE PAGO KB |  | "
+    "27/04/26 | HON | ANUNCIO DE DIVIDENDO HON |  | "
   ]
 }
