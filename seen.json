@@ -244,6 +244,9 @@
     "05/12/25 | OGZD | INFORMACION RELAVANTE- PROGRAMA CEDEARS ADRs GAZPROM (OGZD)-Cód.8379-ISIN ARDEUT114261-05.12.25 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "11/06/26 | CL | ANUNCIO DE DIVIDENDO CL |  | ",
+    "11/06/26 | PM | ANUNCIO DE DIVIDENDO PM |  | ",
+    "11/06/26 | TGT | ANUNCIO DE DIVIDENDO TGT |  | ",
     "11/06/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
     "10/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
     "10/06/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
@@ -363,6 +366,10 @@
     "06/05/26 | E | ANUNCIO DE DIVIDENDO E |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | ",
+    "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | ",
+    "11/06/26 | RTX | AVISO DE PAGO RTX |  | ",
+    "11/06/26 | TMUS | AVISO DE PAGO TMUS |  | ",
     "10/06/26 | CDE | AVISO DE PAGO CDE |  | ",
     "10/06/26 | CVX | AVISO DE PAGO CVX |  | ",
     "10/06/26 | GLNG | AVISO DE PAGO GLNG |  | ",
@@ -478,10 +485,6 @@
     "29/04/26 | TIMB | AVISO DE PAGO TIMB |  | ",
     "29/04/26 | TIMB | AVISO DE PAGO TIMB- |  | ",
     "27/04/26 | BBVA | AVISO DE PAGO BBVA |  | ",
-    "27/04/26 | GE | AVISO DE PAGO GE |  | ",
-    "27/04/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
-    "27/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
-    "27/04/26 | FMX | ANUNCIO DE DIVIDENDO FMX- |  | ",
-    "27/04/26 | HON | ANUNCIO DE DIVIDENDO HON |  | "
+    "27/04/26 | GE | AVISO DE PAGO GE |  | "
   ]
 }
