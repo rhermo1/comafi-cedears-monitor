@@ -244,6 +244,8 @@
     "18/12/25 | ELP | ANUNCIO DE EXCHANGE COMPANHIA PARANAENSE DE ENERGIA-COPEL - PREF (ELP)-ISIN ARBCOM460283-CÓD 8520 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "22/06/26 | LLY | ANUNCIO DE DIVIDENDO LLY |  | ",
+    "22/06/26 | ORANY | ANUNCIO DE DIVIDENDO ORANY |  | ",
     "19/06/26 | DAL | ANUNCIO DE DIVIDENDO DAL |  | ",
     "19/06/26 | SPHQ | ANUNCIO DE DIVIDENDO SPHQ |  | ",
     "19/06/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
@@ -361,11 +363,11 @@
     "21/05/26 | LRCX | ANUNCIO DE DIVIDENDO LRCX |  | ",
     "21/05/26 | MCD | ANUNCIO DE DIVIDENDO MCD |  | ",
     "21/05/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
-    "21/05/26 | NVDA | ANUNCIO DE DIVIDENDO NVDA |  | ",
-    "21/05/26 | ROST | ANUNCIO DE DIVIDENDO ROST |  | ",
-    "21/05/26 | TMO | ANUNCIO DE DIVIDENDO TMO |  | "
+    "21/05/26 | NVDA | ANUNCIO DE DIVIDENDO NVDA |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "22/06/26 | NEM | AVISO DE PAGO NEM |  | ",
+    "22/06/26 | PKX | AVISO DE PAGO PKX |  | ",
     "18/06/26 | ACWI | AVISO DE PAGO ACWI |  | ",
     "18/06/26 | EFA | AVISO DE PAGO EFA |  | ",
     "18/06/26 | ESGU | AVISO DE PAGO ESGU |  | ",
@@ -483,8 +485,6 @@
     "11/05/26 | NUE | AVISO DE PAGO NUE |  | ",
     "11/05/26 | SBS | AVISO DE PAGO SBS |  | ",
     "11/05/26 | SBS | AVISO DE PAGO SBS- |  | ",
-    "08/05/26 | AXP | AVISO DE PAGO AXP |  | ",
-    "08/05/26 | BNY | AVISO DE PAGO BK |  | ",
-    "08/05/26 | DE | AVISO DE PAGO DE |  | "
+    "08/05/26 | AXP | AVISO DE PAGO AXP |  | "
   ]
 }
