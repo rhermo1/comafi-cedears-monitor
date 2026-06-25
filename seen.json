@@ -244,6 +244,11 @@
     "19/12/25 | SHPWQ | INFORMACIÓN RELEVANTE - SHAPEWAYS HOLDINGS INC (SHPWQ)- Cod. CDV 8599– ISIN AR0693614809 -19.12.2025 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "25/06/26 |  | ANUNCIO DE DIVIDENDO AMX |  | ",
+    "25/06/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
+    "25/06/26 | GE | ANUNCIO DE DIVIDENDO GE |  | ",
+    "25/06/26 | MRVL | ANUNCIO DE DIVIDENDO MRVL |  | ",
+    "25/06/26 | VIG | ANUNCIO DE DIVIDENDO VIG |  | ",
     "24/06/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "24/06/26 | FCX | ANUNCIO DE DIVIDENDO FCX |  | ",
     "24/06/26 | GLW | ANUNCIO DE DIVIDENDO GLW |  | ",
@@ -358,14 +363,13 @@
     "26/05/26 | NTES | ANUNCIO DE DIVIDENDO NTES |  | ",
     "22/05/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
     "22/05/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
-    "22/05/26 | HOG | ANUNCIO DE DIVIDENDO HOG |  | ",
-    "22/05/26 | INFY | ANUNCIO DE DIVIDENDO INFY |  | ",
-    "22/05/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
-    "22/05/26 | NEC1 GR | ANUNCIO DE DIVIDENDO NEC1 GR |  | ",
-    "22/05/26 | NSANY | ANUNCIO DE DIVIDENDO NSANY- |  | ",
-    "22/05/26 | STLA | ANUNCIO DE DIVIDENDO STLA |  | "
+    "22/05/26 | HOG | ANUNCIO DE DIVIDENDO HOG |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "25/06/26 | HOG | AVISO DE PAGO HOG |  | ",
+    "25/06/26 | META | AVISO DE PAGO META |  | ",
+    "25/06/26 | PYPL | AVISO DE PAGO PYPL |  | ",
+    "25/06/26 | QCOM | AVISO DE PAGO QCOM |  | ",
     "24/06/26 | HAL | AVISO DE PAGO HAL |  | ",
     "24/06/26 | XLB | AVISO DE PAGO XLB |  | ",
     "24/06/26 | XLC | AVISO DE PAGO XLC |  | ",
@@ -481,10 +485,6 @@
     "15/05/26 | ACN | AVISO DE PAGO ACN |  | ",
     "15/05/26 | BBD | AVISO DE PAGO BBD |  | ",
     "15/05/26 | BKR | AVISO DE PAGO BKR |  | ",
-    "15/05/26 | CL | AVISO DE PAGO CL |  | ",
-    "15/05/26 | COST | AVISO DE PAGO COST |  | ",
-    "15/05/26 | MRSH | AVISO DE PAGO MRSH |  | ",
-    "15/05/26 | PG | AVISO DE PAGO PG |  | ",
-    "15/05/26 | SAP | AVISO DE PAGO SAP |  | "
+    "15/05/26 | CL | AVISO DE PAGO CL |  | "
   ]
 }
