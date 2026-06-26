@@ -361,11 +361,17 @@
     "27/05/26 | DD | ANUNCIO DE REVERSE STOCK SPLIT DUPONT DE NEMOURS INC (DD)-ISIN ARDEUT110145-Cód.8018 |  | ",
     "26/05/26 | MRK | ANUNCIO DE DIVIDENDO MRK |  | ",
     "26/05/26 | NTES | ANUNCIO DE DIVIDENDO NTES |  | ",
-    "22/05/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
-    "22/05/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
-    "22/05/26 | HOG | ANUNCIO DE DIVIDENDO HOG |  | "
+    "22/05/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "26/06/26 | ARCO | AVISO DE PAGO ARCO |  | ",
+    "26/06/26 | BAC | AVISO DE PAGO BAC |  | ",
+    "26/06/26 | BP | AVISO DE PAGO BP |  | ",
+    "26/06/26 | GRMN | AVISO DE PAGO GRMN |  | ",
+    "26/06/26 | LMT | AVISO DE PAGO LMT |  | ",
+    "26/06/26 | NVDA | AVISO DE PAGO NVDA |  | ",
+    "26/06/26 | SHPQ | AVISO DE PAGO SHPQ |  | ",
+    "26/06/26 | UL | AVISO DE PAGO UL |  | ",
     "25/06/26 | HOG | AVISO DE PAGO HOG |  | ",
     "25/06/26 | META | AVISO DE PAGO META |  | ",
     "25/06/26 | PYPL | AVISO DE PAGO PYPL |  | ",
@@ -477,14 +483,6 @@
     "22/05/26 | WB | AVISO DE PAGO WB |  | ",
     "20/05/26 | TX | AVISO DE PAGO TX |  | ",
     "19/05/26 | AGRO | AVISO DE PAGO AGRO |  | ",
-    "19/05/26 | CAT | AVISO DE PAGO CAT |  | ",
-    "19/05/26 | TXN | AVISO DE PAGO TXN |  | ",
-    "18/05/26 | BSBR | AVISO DE PAGO BSBR |  | ",
-    "15/05/26 | ABBV | AVISO DE PAGO ABBV |  | ",
-    "15/05/26 | ABT | AVISO DE PAGO ABT |  | ",
-    "15/05/26 | ACN | AVISO DE PAGO ACN |  | ",
-    "15/05/26 | BBD | AVISO DE PAGO BBD |  | ",
-    "15/05/26 | BKR | AVISO DE PAGO BKR |  | ",
-    "15/05/26 | CL | AVISO DE PAGO CL |  | "
+    "19/05/26 | CAT | AVISO DE PAGO CAT |  | "
   ]
 }
