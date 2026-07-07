@@ -244,6 +244,10 @@
     "30/12/25 | MRSH | ANUNCIO DE CAMBIO DE NOMBRE-TICKER MARSH MCLENNAN COMPANIES (MMC)-CÓD -8135 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "07/07/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
+    "07/07/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
+    "07/07/26 | O | ANUNCIO DE DIVIDENDO O |  | ",
+    "07/07/26 | TIMB | ANUNCIO DE DIVIDENDO TIMB |  | ",
     "03/07/26 | TELFY | ANUNCIO DE DIVIDENDO TELFY |  | ",
     "30/06/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
     "29/06/26 | COPX | ANUNCIO DE DIVIDENDO COPX |  | ",
@@ -359,11 +363,7 @@
     "29/05/26 | META | ANUNCIO DE DIVIDENDO META |  | ",
     "29/05/26 | SMSN LI | ANUNCIO DE DIVIDENDO SMSN LI |  | ",
     "29/05/26 | TELFY | ANUNCIO DE DIVIDENDO TELFY |  | ",
-    "28/05/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | ",
-    "28/05/26 | O | ANUNCIO DE DIVIDENDO O |  | ",
-    "28/05/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
-    "27/05/26 | DE | ANUNCIO DE DIVIDENDO DE |  | ",
-    "27/05/26 | JOYY | ANUNCIO DE DIVIDENDO JOYY |  | "
+    "28/05/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
     "07/07/26 | COPX | AVISO DE PAGO COPX |  | ",
