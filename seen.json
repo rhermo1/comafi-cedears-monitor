@@ -244,6 +244,11 @@
     "02/01/26 | OGZD | INFORMACION RELAVANTE- PROGRAMA CEDEARS ADRs GAZPROM (OGZD)-Cód.8379-ISIN ARDEUT114261-02.01.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "14/07/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
+    "14/07/26 | GS | ANUNCIO DE DIVIDENDO GS |  | ",
+    "14/07/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
+    "14/07/26 |  | ANUNCIO DE DIVIDENDO PCAR |  | ",
+    "14/07/26 | PG | ANUNCIO DE DIVIDENDO PG |  | ",
     "13/07/26 | CCL | ANUNCIO DE DIVIDENDO CCL |  | ",
     "13/07/26 | CVS | ANUNCIO DE DIVIDENDO CVS |  | ",
     "13/07/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
@@ -358,14 +363,11 @@
     "04/06/26 | ITUB | Anuncio de dividendo ITUB-RECTIFICATIVO |  | ",
     "03/06/26 | AVGO | AUNCIO DE DIVIDENDO AVGO |  | ",
     "03/06/26 | JCI | AUNCIO DE DIVIDENDO JCI |  | ",
-    "03/06/26 | MDT | AUNCIO DE DIVIDENDO MDT |  | ",
-    "03/06/26 | UNH | AUNCIO DE DIVIDENDO UNH |  | ",
-    "02/06/26 | E | AUNCIO DE DIVIDENDO E |  | ",
-    "02/06/26 | ITUB | AUNCIO DE DIVIDENDO ITUB |  | ",
-    "02/06/26 | PHG | AUNCIO DE DIVIDENDO PHG PD 3.6.2026 |  | ",
-    "02/06/26 | PHG | AUNCIO DE DIVIDENDO PHG- |  | "
+    "03/06/26 | MDT | AUNCIO DE DIVIDENDO MDT |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "14/07/26 | JOYY | AVISO DE PAGO JOYY |  | ",
+    "14/07/26 | MDLZ | AVISO DE PAGO MDLZ |  | ",
     "13/07/26 | ABEV | AVISO DE PAGO ABEV |  | ",
     "13/07/26 | BABA | AVISO DE PAGO BABA |  | ",
     "13/07/26 | BBD | AVISO DE PAGO BBD |  | ",
@@ -483,8 +485,6 @@
     "10/06/26 | GLNG | AVISO DE PAGO GLNG |  | ",
     "10/06/26 | HL | AVISO DE PAGO HL |  | ",
     "10/06/26 | IBM | AVISO DE PAGO IBM |  | ",
-    "10/06/26 | LLY | AVISO DE PAGO LLY |  | ",
-    "10/06/26 | SNA | AVISO DE PAGO SNA |  | ",
-    "10/06/26 | SPGI | AVISO DE PAGO SPGI |  | "
+    "10/06/26 | LLY | AVISO DE PAGO LLY |  | "
   ]
 }
