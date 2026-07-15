@@ -244,6 +244,10 @@
     "02/01/26 | OGZD | INFORMACION RELAVANTE- PROGRAMA CEDEARS ADRs GAZPROM (OGZD)-Cód.8379-ISIN ARDEUT114261-02.01.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "15/07/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
+    "15/07/26 | BNY | ANUNCIO DE DIVIDENDO BNY |  | ",
+    "15/07/26 | JNJ | ANUNCIO DE DIVIDENDO JNJ |  | ",
+    "15/07/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
     "14/07/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "14/07/26 | GS | ANUNCIO DE DIVIDENDO GS |  | ",
     "14/07/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
@@ -359,13 +363,15 @@
     "05/06/26 | VZ | ANUNCIO DE DIVIDENDO VZ |  | ",
     "04/06/26 | ITUB | Anuncio de dividendo ITUB-PD 08-06-2026 |  | ",
     "04/06/26 | ITUB | Anuncio de dividendo ITUB-PD 10-08-2026 |  | ",
-    "04/06/26 | TM | Anuncio de dividendo TM |  | ",
-    "04/06/26 | ITUB | Anuncio de dividendo ITUB-RECTIFICATIVO |  | ",
-    "03/06/26 | AVGO | AUNCIO DE DIVIDENDO AVGO |  | ",
-    "03/06/26 | JCI | AUNCIO DE DIVIDENDO JCI |  | ",
-    "03/06/26 | MDT | AUNCIO DE DIVIDENDO MDT |  | "
+    "04/06/26 | TM | Anuncio de dividendo TM |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
+    "15/07/26 | ECL | AVISO DE PAGO ECL |  | ",
+    "15/07/26 | MSI | AVISO DE PAGO MSI |  | ",
+    "15/07/26 | O | AVISO DE PAGO O |  | ",
+    "15/07/26 | TMO | AVISO DE PAGO TMO |  | ",
+    "15/07/26 | USB | AVISO DE PAGO USB |  | ",
     "14/07/26 | JOYY | AVISO DE PAGO JOYY |  | ",
     "14/07/26 | MDLZ | AVISO DE PAGO MDLZ |  | ",
     "13/07/26 | ABEV | AVISO DE PAGO ABEV |  | ",
@@ -479,12 +485,6 @@
     "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | ",
     "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | ",
     "11/06/26 | RTX | AVISO DE PAGO RTX |  | ",
-    "11/06/26 | TMUS | AVISO DE PAGO TMUS |  | ",
-    "10/06/26 | CDE | AVISO DE PAGO CDE |  | ",
-    "10/06/26 | CVX | AVISO DE PAGO CVX |  | ",
-    "10/06/26 | GLNG | AVISO DE PAGO GLNG |  | ",
-    "10/06/26 | HL | AVISO DE PAGO HL |  | ",
-    "10/06/26 | IBM | AVISO DE PAGO IBM |  | ",
-    "10/06/26 | LLY | AVISO DE PAGO LLY |  | "
+    "11/06/26 | TMUS | AVISO DE PAGO TMUS |  | "
   ]
 }
