@@ -244,6 +244,12 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "17/07/26 | PEP | ANUNCIO DE DIVIDENDO PEP |  | ",
+    "17/07/26 | QCOM | ANUNCIO DE DIVIDENDO QCOM |  | ",
+    "17/07/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
+    "17/07/26 | TRV | ANUNCIO DE DIVIDENDO TRV |  | ",
+    "17/07/26 | TXN | ANUNCIO DE DIVIDENDO TXN |  | ",
+    "17/07/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "16/07/26 | AMX | ANUNCIO DE DIVIDENDO AMX |  | ",
     "16/07/26 | KO | ANUNCIO DE DIVIDENDO KO |  | ",
     "15/07/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
@@ -357,15 +363,10 @@
     "09/06/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | ",
     "09/06/26 | MFG | ANUNCIO DE DIVIDENDO MFG |  | ",
     "09/06/26 | NUE | ANUNCIO DE DIVIDENDO NUE |  | ",
-    "09/06/26 | TJX | ANUNCIO DE DIVIDENDO TJX |  | ",
-    "08/06/26 | CX | ANUNCIO DE DIVIDENDO CX |  | ",
-    "08/06/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "05/06/26 | AXP | ANUNCIO DE DIVIDENDO AXP |  | ",
-    "05/06/26 | CX | ANUNCIO DE DIVIDENDO CX |  | ",
-    "05/06/26 | VZ | ANUNCIO DE DIVIDENDO VZ |  | ",
-    "04/06/26 | ITUB | Anuncio de dividendo ITUB-PD 08-06-2026 |  | "
+    "09/06/26 | TJX | ANUNCIO DE DIVIDENDO TJX |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
     "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
     "15/07/26 | ECL | AVISO DE PAGO ECL |  | ",
     "15/07/26 | MSI | AVISO DE PAGO MSI |  | ",
@@ -484,7 +485,6 @@
     "12/06/26 | SONY | AVISO DE PAGO SONY |  | ",
     "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | ",
     "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | ",
-    "11/06/26 | RTX | AVISO DE PAGO RTX |  | ",
-    "11/06/26 | TMUS | AVISO DE PAGO TMUS |  | "
+    "11/06/26 | RTX | AVISO DE PAGO RTX |  | "
   ]
 }
