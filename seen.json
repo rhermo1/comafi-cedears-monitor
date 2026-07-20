@@ -276,6 +276,9 @@
     "07/07/26 | O | ANUNCIO DE DIVIDENDO O |  | ",
     "07/07/26 | TIMB | ANUNCIO DE DIVIDENDO TIMB |  | ",
     "03/07/26 | TELFY | ANUNCIO DE DIVIDENDO TELFY |  | ",
+    "02/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
+    "02/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX-SPECIAL CASH |  | ",
+    "02/07/26 | SBUX | ANUNCIO DE DIVIDENDO SBUX |  | ",
     "30/06/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
     "29/06/26 | COPX | ANUNCIO DE DIVIDENDO COPX |  | ",
     "29/06/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
@@ -360,12 +363,10 @@
     "10/06/26 | HPPD LI | ANUNCIO DE DIVIDENDO HPPD LI |  | ",
     "10/06/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | ",
     "10/06/26 | ORCL | ANUNCIO DE DIVIDENDO ORCL |  | ",
-    "10/06/26 | YZCAY | ANUNCIO DE DIVIDENDO YZCAY |  | ",
-    "09/06/26 | AMAT | ANUNCIO DE DIVIDENDO AMAT |  | ",
-    "09/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
-    "09/06/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | "
+    "10/06/26 | YZCAY | ANUNCIO DE DIVIDENDO YZCAY |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "20/07/26 | PM | AVISO DE PAGO PM |  | ",
     "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
     "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
     "15/07/26 | ECL | AVISO DE PAGO ECL |  | ",
@@ -484,7 +485,6 @@
     "12/06/26 | PFE | AVISO DE PAGO PFE |  | ",
     "12/06/26 | SONY | AVISO DE PAGO SONY |  | ",
     "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | ",
-    "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | ",
-    "11/06/26 | RTX | AVISO DE PAGO RTX |  | "
+    "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | "
   ]
 }
