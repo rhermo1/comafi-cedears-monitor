@@ -244,6 +244,8 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "21/07/26 | GM | ANUNCIO DE DIVIDENDO GM |  | ",
+    "21/07/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "20/07/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
     "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX - SPECIAL CASH |  | ",
     "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
@@ -361,11 +363,10 @@
     "10/06/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
     "10/06/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
     "10/06/26 | HPPD LI | ANUNCIO DE DIVIDENDO HPPD LI |  | ",
-    "10/06/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | ",
-    "10/06/26 | ORCL | ANUNCIO DE DIVIDENDO ORCL |  | ",
-    "10/06/26 | YZCAY | ANUNCIO DE DIVIDENDO YZCAY |  | "
+    "10/06/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "21/07/26 | VIV | AVISO DE PAGO VIV |  | ",
     "20/07/26 | PM | AVISO DE PAGO PM |  | ",
     "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
     "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
@@ -484,7 +485,6 @@
     "12/06/26 | MMM | AVISO DE PAGO MMM |  | ",
     "12/06/26 | PFE | AVISO DE PAGO PFE |  | ",
     "12/06/26 | SONY | AVISO DE PAGO SONY |  | ",
-    "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | ",
-    "11/06/26 | MSFT | AVISO DE PAGO MSFT |  | "
+    "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | "
   ]
 }
