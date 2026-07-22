@@ -244,6 +244,9 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "22/07/26 | C | ANUNCIO DE DIVIDENDO C |  | ",
+    "22/07/26 | IBM | ANUNCIO DE DIVIDENDO IBM |  | ",
+    "22/07/26 | IBN | ANUNCIO DE DIVIDENDO IBN |  | ",
     "21/07/26 | GM | ANUNCIO DE DIVIDENDO GM |  | ",
     "21/07/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "20/07/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
@@ -360,12 +363,12 @@
     "11/06/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
     "10/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
     "10/06/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
-    "10/06/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
-    "10/06/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
-    "10/06/26 | HPPD LI | ANUNCIO DE DIVIDENDO HPPD LI |  | ",
-    "10/06/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | "
+    "10/06/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "22/07/26 | AMX | AVISO DE PAGO AMX |  | ",
+    "22/07/26 | CSCO | AVISO DE PAGO CSCO |  | ",
+    "22/07/26 | DIS | AVISO DE PAGO DIS |  | ",
     "21/07/26 | VIV | AVISO DE PAGO VIV |  | ",
     "20/07/26 | PM | AVISO DE PAGO PM |  | ",
     "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
@@ -482,9 +485,6 @@
     "12/06/26 | DOW | AVISO DE PAGO DOW |  | ",
     "12/06/26 | EBAY | AVISO DE PAGO EBAY |  | ",
     "12/06/26 | IP | AVISO DE PAGO IP |  | ",
-    "12/06/26 | MMM | AVISO DE PAGO MMM |  | ",
-    "12/06/26 | PFE | AVISO DE PAGO PFE |  | ",
-    "12/06/26 | SONY | AVISO DE PAGO SONY |  | ",
-    "11/06/26 | AMAT | AVISO DE PAGO AMAT |  | "
+    "12/06/26 | MMM | AVISO DE PAGO MMM |  | "
   ]
 }
