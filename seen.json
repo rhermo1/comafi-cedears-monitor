@@ -244,6 +244,16 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "23/07/26 | AVY | ANUNCIO DE DIVIDENDO AVY |  | ",
+    "23/07/26 | BX | ANUNCIO DE DIVIDENDO BX |  | ",
+    "23/07/26 | GOOGL | ANUNCIO DE DIVIDENDO GOOGL |  | ",
+    "23/07/26 | LMT | ANUNCIO DE DIVIDENDO LMT |  | ",
+    "23/07/26 | LVS | ANUNCIO DE DIVIDENDO LVS |  | ",
+    "23/07/26 | NEM | ANUNCIO DE DIVIDENDO NEM |  | ",
+    "23/07/26 | NGG | ANUNCIO DE DIVIDENDO NGG |  | ",
+    "23/07/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
+    "23/07/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
+    "23/07/26 | TTE | ANUNCIO DE DIVIDENDO TTE-PD 22.1.2027 |  | ",
     "22/07/26 | C | ANUNCIO DE DIVIDENDO C |  | ",
     "22/07/26 | IBM | ANUNCIO DE DIVIDENDO IBM |  | ",
     "22/07/26 | IBN | ANUNCIO DE DIVIDENDO IBN |  | ",
@@ -353,19 +363,11 @@
     "12/06/26 | IEUR | ANUNCIO DE DIVIDENDO IEUR |  | ",
     "12/06/26 | IJH | ANUNCIO DE DIVIDENDO IJH |  | ",
     "12/06/26 | ILF | ANUNCIO DE DIVIDENDO ILF |  | ",
-    "12/06/26 | IVE | ANUNCIO DE DIVIDENDO IVE |  | ",
-    "12/06/26 | IVW | ANUNCIO DE DIVIDENDO IVW |  | ",
-    "12/06/26 | O | ANUNCIO DE DIVIDENDO O |  | ",
-    "12/06/26 | TSM | ANUNCIO DE DIVIDENDO TSM |  | ",
-    "11/06/26 | CL | ANUNCIO DE DIVIDENDO CL |  | ",
-    "11/06/26 | PM | ANUNCIO DE DIVIDENDO PM |  | ",
-    "11/06/26 | TGT | ANUNCIO DE DIVIDENDO TGT |  | ",
-    "11/06/26 | UNH | ANUNCIO DE DIVIDENDO UNH |  | ",
-    "10/06/26 | ASR | ANUNCIO DE DIVIDENDO ASR |  | ",
-    "10/06/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
-    "10/06/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | "
+    "12/06/26 | IVE | ANUNCIO DE DIVIDENDO IVE |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "23/07/26 | NGG | AVISO DE PAGO NGG |  | ",
+    "23/07/26 | TTE | AVISO DE PAGO TTE |  | ",
     "22/07/26 | AMX | AVISO DE PAGO AMX |  | ",
     "22/07/26 | CSCO | AVISO DE PAGO CSCO |  | ",
     "22/07/26 | DIS | AVISO DE PAGO DIS |  | ",
@@ -483,8 +485,6 @@
     "16/06/26 | O | AVISO DE PAGO O |  | ",
     "16/06/26 | SWKS | AVISO DE PAGO SWKS |  | ",
     "12/06/26 | DOW | AVISO DE PAGO DOW |  | ",
-    "12/06/26 | EBAY | AVISO DE PAGO EBAY |  | ",
-    "12/06/26 | IP | AVISO DE PAGO IP |  | ",
-    "12/06/26 | MMM | AVISO DE PAGO MMM |  | "
+    "12/06/26 | EBAY | AVISO DE PAGO EBAY |  | "
   ]
 }
