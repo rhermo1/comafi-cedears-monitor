@@ -244,6 +244,9 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "27/07/26 | AZN | ANUNCIO DE DIVIDENDO AZN |  | ",
+    "27/07/26 | BKR | ANUNCIO DE DIVIDENDO BKR |  | ",
+    "27/07/26 | EQNR | ANUNCIO DE DIVIDENDO EQNR |  | ",
     "24/07/26 | BAC | ANUNCIO DE DIVIDENDO BAC |  | ",
     "24/07/26 | HON | ANUNCIO DE DIVIDENDO HON |  | ",
     "24/07/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
@@ -360,12 +363,10 @@
     "16/06/26 | NMR | ANUNCIO DE DIVIDENDO NMR |  | ",
     "12/06/26 | ESGU | ANUNCIO DE DIVIDENDO ESGU |  | ",
     "12/06/26 | EFA | ANUNCIO DE DIVIDENDO EFA |  | ",
-    "12/06/26 | IVV | ANUNCIO DE DIVIDENDO IVV |  | ",
-    "12/06/26 | ABT | ANUNCIO DE DIVIDENDO ABT |  | ",
-    "12/06/26 | ACWI | ANUNCIO DE DIVIDENDO ACWI |  | ",
-    "12/06/26 | EWJ | ANUNCIO DE DIVIDENDO EWJ |  | "
+    "12/06/26 | IVV | ANUNCIO DE DIVIDENDO IVV |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "27/07/26 | GE | AVISO DE PAGO GE |  | ",
     "24/07/26 | APP | AVISO DE PAGO AAP |  | ",
     "24/07/26 | KOF | AVISO DE PAGO KOF |  | ",
     "24/07/26 | ORCL | AVISO DE PAGO ORCL |  | ",
@@ -484,7 +485,6 @@
     "16/06/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
     "16/06/26 | HMC | AVISO DE PAGO HMC |  | ",
     "16/06/26 | HSY | AVISO DE PAGO HSY |  | ",
-    "16/06/26 | MCD | AVISO DE PAGO MCD |  | ",
-    "16/06/26 | NEE | AVISO DE PAGO NEE |  | "
+    "16/06/26 | MCD | AVISO DE PAGO MCD |  | "
   ]
 }
