@@ -244,6 +244,15 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "28/07/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
+    "28/07/26 | BCS | ANUNCIO DE DIVIDENDO BCS |  | ",
+    "28/07/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
+    "28/07/26 | HWM | ANUNCIO DE DIVIDENDO HWM |  | ",
+    "28/07/26 | IFF | ANUNCIO DE DIVIDENDO IFF |  | ",
+    "28/07/26 | PYPL | ANUNCIO DE DIVIDENDO PYPL |  | ",
+    "28/07/26 | UL | ANUNCIO DE DIVIDENDO UL |  | ",
+    "28/07/26 | V | ANUNCIO DE DIVIDENDO V |  | ",
+    "28/07/26 | WFC | ANUNCIO DE DIVIDENDO WFC |  | ",
     "27/07/26 | AZN | ANUNCIO DE DIVIDENDO AZN |  | ",
     "27/07/26 | BKR | ANUNCIO DE DIVIDENDO BKR |  | ",
     "27/07/26 | EQNR | ANUNCIO DE DIVIDENDO EQNR |  | ",
@@ -354,18 +363,11 @@
     "16/06/26 | HPQ | ANUNCIO DE DIVIDENDO HPQ |  | ",
     "16/06/26 | IBB | ANUNCIO DE DIVIDENDO IBB |  | ",
     "16/06/26 | IEMG | ANUNCIO DE DIVIDENDO IEMG |  | ",
-    "16/06/26 | IEUR | ANUNCIO DE DIVIDENDO IEUR |  | ",
-    "16/06/26 | IJH | ANUNCIO DE DIVIDENDO IJH |  | ",
-    "16/06/26 | ILF | ANUNCIO DE DIVIDENDO ILF |  | ",
-    "16/06/26 | IVE | ANUNCIO DE DIVIDENDO IVE |  | ",
-    "16/06/26 | IVW | ANUNCIO DE DIVIDENDO IVW |  | ",
-    "16/06/26 | MA | ANUNCIO DE DIVIDENDO MA |  | ",
-    "16/06/26 | NMR | ANUNCIO DE DIVIDENDO NMR |  | ",
-    "12/06/26 | ESGU | ANUNCIO DE DIVIDENDO ESGU |  | ",
-    "12/06/26 | EFA | ANUNCIO DE DIVIDENDO EFA |  | ",
-    "12/06/26 | IVV | ANUNCIO DE DIVIDENDO IVV |  | "
+    "16/06/26 | IEUR | ANUNCIO DE DIVIDENDO IEUR |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "28/07/26 | FMX | AVISO DE PAGO FMX - SPECIAL CASH |  | ",
+    "28/07/26 | FMX | AVISO DE PAGO FMX |  | ",
     "27/07/26 | GE | AVISO DE PAGO GE |  | ",
     "24/07/26 | APP | AVISO DE PAGO AAP |  | ",
     "24/07/26 | KOF | AVISO DE PAGO KOF |  | ",
@@ -483,8 +485,6 @@
     "16/06/26 | EFX | AVISO DE PAGO EFX |  | ",
     "16/06/26 | GGB | AVISO DE PAGO GGB |  | ",
     "16/06/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
-    "16/06/26 | HMC | AVISO DE PAGO HMC |  | ",
-    "16/06/26 | HSY | AVISO DE PAGO HSY |  | ",
-    "16/06/26 | MCD | AVISO DE PAGO MCD |  | "
+    "16/06/26 | HMC | AVISO DE PAGO HMC |  | "
   ]
 }
