@@ -244,6 +244,11 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "29/07/26 | MRK | ANUNCIO DE DIVIDENDO MRK |  | ",
+    "29/07/26 | PBI | ANUNCIO DE DIVIDENDO PBI |  | ",
+    "29/07/26 | RIO | ANUNCIO DE DIVIDENDO RIO |  | ",
+    "29/07/26 | TIMB | ANUNCIO DE DIVIDENDO TIMB |  | ",
+    "29/07/26 | UNP | ANUNCIO DE DIVIDENDO UNP |  | ",
     "28/07/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
     "28/07/26 | BCS | ANUNCIO DE DIVIDENDO BCS |  | ",
     "28/07/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
@@ -358,14 +363,10 @@
     "16/06/26 | PKX | ANUNCIO DE DIVIDENDO PKX |  | ",
     "16/06/26 | ACWI | ANUNCIO DE DIVIDENDO ACWI |  | ",
     "16/06/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "16/06/26 | EWJ | ANUNCIO DE DIVIDENDO EWJ |  | ",
-    "16/06/26 | FXI | ANUNCIO DE DIVIDENDO FXI |  | ",
-    "16/06/26 | HPQ | ANUNCIO DE DIVIDENDO HPQ |  | ",
-    "16/06/26 | IBB | ANUNCIO DE DIVIDENDO IBB |  | ",
-    "16/06/26 | IEMG | ANUNCIO DE DIVIDENDO IEMG |  | ",
-    "16/06/26 | IEUR | ANUNCIO DE DIVIDENDO IEUR |  | "
+    "16/06/26 | EWJ | ANUNCIO DE DIVIDENDO EWJ |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "29/07/26 | TIMB | AVISO DE PAGO TIMB |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX - SPECIAL CASH |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX |  | ",
     "27/07/26 | GE | AVISO DE PAGO GE |  | ",
@@ -484,7 +485,6 @@
     "16/06/26 | B | AVISO DE PAGO B |  | ",
     "16/06/26 | EFX | AVISO DE PAGO EFX |  | ",
     "16/06/26 | GGB | AVISO DE PAGO GGB |  | ",
-    "16/06/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
-    "16/06/26 | HMC | AVISO DE PAGO HMC |  | "
+    "16/06/26 | GOOGL | AVISO DE PAGO GOOGL |  | "
   ]
 }
