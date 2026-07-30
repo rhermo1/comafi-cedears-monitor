@@ -244,6 +244,16 @@
     "13/01/26 | AZN | ANUNCIO DE EXCHANGE ASTRAZENECA PLC - ADR (AZN)-ISIN ARDEUT112489-Cód.8244 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "30/07/26 | AEM | ANUNCIO DE DIVIDENDO AEM |  | ",
+    "30/07/26 | AMGN | ANUNCIO DE DIVIDENDO AMGN |  | ",
+    "30/07/26 | HSY | ANUNCIO DE DIVIDENDO HSY |  | ",
+    "30/07/26 | ING | ANUNCIO DE DIVIDENDO ING |  | ",
+    "30/07/26 | KGC | ANUNCIO DE DIVIDENDO KGC |  | ",
+    "30/07/26 | LYG | ANUNCIO DE DIVIDENDO LYG |  | ",
+    "30/07/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
+    "30/07/26 | SHEL | ANUNCIO DE DIVIDENDO SHEL |  | ",
+    "30/07/26 | VOD | ANUNCIO DE DIVIDENDO VOD |  | ",
+    "30/07/26 | VST | ANUNCIO DE DIVIDENDO VST |  | ",
     "29/07/26 | MRK | ANUNCIO DE DIVIDENDO MRK |  | ",
     "29/07/26 | PBI | ANUNCIO DE DIVIDENDO PBI |  | ",
     "29/07/26 | RIO | ANUNCIO DE DIVIDENDO RIO |  | ",
@@ -353,19 +363,12 @@
     "18/06/26 | XLK | ANUNCIO DE DIVIDENDO XLK |  | ",
     "18/06/26 | XLP | ANUNCIO DE DIVIDENDO XLP |  | ",
     "18/06/26 | XLRE | ANUNCIO DE DIVIDENDO XLRE |  | ",
-    "18/06/26 | XLV | ANUNCIO DE DIVIDENDO XLV |  | ",
-    "18/06/26 | XLY | ANUNCIO DE DIVIDENDO XLY |  | ",
-    "17/06/26 | AEG | ANUNCIO DE DIVIDENDO AEG |  | ",
-    "17/06/26 | HHPD LI | ANUNCIO DE DIVIDENDO HHPD LI |  | ",
-    "17/06/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
-    "17/06/26 | USB | ANUNCIO DE DIVIDENDO USB |  | ",
-    "17/06/26 | VEA | ANUNCIO DE DIVIDENDO VEA |  | ",
-    "16/06/26 | PKX | ANUNCIO DE DIVIDENDO PKX |  | ",
-    "16/06/26 | ACWI | ANUNCIO DE DIVIDENDO ACWI |  | ",
-    "16/06/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "16/06/26 | EWJ | ANUNCIO DE DIVIDENDO EWJ |  | "
+    "18/06/26 | XLV | ANUNCIO DE DIVIDENDO XLV |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "30/07/26 | DAL | AVISO DE PAGO DAL |  | ",
+    "30/07/26 | MRVL | AVISO DE PAGO MRVL |  | ",
+    "30/07/26 | VOD | AVISO DE PAGO VOD |  | ",
     "29/07/26 | TIMB | AVISO DE PAGO TIMB |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX - SPECIAL CASH |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX |  | ",
@@ -482,9 +485,6 @@
     "17/06/26 | EA | AVISO DE PAGO EA |  | ",
     "16/06/26 | ADI | AVISO DE PAGO ADI |  | ",
     "16/06/26 | AEM | AVISO DE PAGO AEM |  | ",
-    "16/06/26 | B | AVISO DE PAGO B |  | ",
-    "16/06/26 | EFX | AVISO DE PAGO EFX |  | ",
-    "16/06/26 | GGB | AVISO DE PAGO GGB |  | ",
-    "16/06/26 | GOOGL | AVISO DE PAGO GOOGL |  | "
+    "16/06/26 | B | AVISO DE PAGO B |  | "
   ]
 }
