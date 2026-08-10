@@ -244,6 +244,9 @@
     "16/01/26 | TELFY | ANUNCIO DE DESLISTING-TELEFONICA S.A. ADR (TEF)-ISIN ARDEUT110574-Cód.8062 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "10/08/26 | B | ANUNCIO DE DIVIDENDO B |  | ",
+    "10/08/26 | HDB | ANUNCIO DE DIVIDENDO HDB |  | ",
+    "10/08/26 | ITUB | ANUNCIO DE DIVIDENDO ITUB |  | ",
     "07/08/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "07/08/26 | NKE | ANUNCIO DE DIVIDENDO NKE |  | ",
     "07/08/26 | PBR | ANUNCIO DE DIVIDENDO PBR Int on cap |  | ",
@@ -360,12 +363,13 @@
     "29/06/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
     "29/06/26 | TTE | ANUNCIO DE DIVIDENDO TTE |  | ",
     "26/06/26 | INFY | ANUNCIO DE DIVIDENDO INFY |  | ",
-    "26/06/26 | RTX | ANUNCIO DE DIVIDENDO RTX |  | ",
-    "25/06/26 |  | ANUNCIO DE DIVIDENDO AMX |  | ",
-    "25/06/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
-    "25/06/26 | GE | ANUNCIO DE DIVIDENDO GE |  | "
+    "26/06/26 | RTX | ANUNCIO DE DIVIDENDO RTX |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "10/08/26 | AXP | AVISO DE PAGO AXP |  | ",
+    "10/08/26 | BBD | AVISO DE PAGO BBD |  | ",
+    "10/08/26 | BX | AVISO DE PAGO BX |  | ",
+    "10/08/26 | DE | AVISO DE PAGO DE |  | ",
     "07/08/26 | BNY | AVISO DE PAGO BNY |  | ",
     "07/08/26 | COST | AVISO DE PAGO COST |  | ",
     "07/08/26 | MA | AVISO DE PAGO MA |  | ",
@@ -481,10 +485,6 @@
     "23/06/26 |  | AVISO DE PAGO UNH |  | ",
     "23/06/26 |  | AVISO DE PAGO VEA |  | ",
     "22/06/26 | NEM | AVISO DE PAGO NEM |  | ",
-    "22/06/26 | PKX | AVISO DE PAGO PKX |  | ",
-    "18/06/26 | ACWI | AVISO DE PAGO ACWI |  | ",
-    "18/06/26 | EFA | AVISO DE PAGO EFA |  | ",
-    "18/06/26 | ESGU | AVISO DE PAGO ESGU |  | ",
-    "18/06/26 | EWJ | AVISO DE PAGO EWJ |  | "
+    "22/06/26 | PKX | AVISO DE PAGO PKX |  | "
   ]
 }
