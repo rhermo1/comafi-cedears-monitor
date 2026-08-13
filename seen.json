@@ -244,6 +244,11 @@
     "20/01/26 | TELFY | ANUNCIO DE CAMBIO DE MERCADO Y TICKER - TELEFONICA S.A. ADR (TEF)-ISIN ARDEUT110574-Cód.8062-- |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "13/08/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
+    "13/08/26 | DEO | ANUNCIO DE DIVIDENDO DEO |  | ",
+    "13/08/26 | GLNG | ANUNCIO DE DIVIDENDO GLNG |  | ",
+    "13/08/26 | PAAS | ANUNCIO DE DIVIDENDO PAAS |  | ",
+    "13/08/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | ",
     "12/08/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
     "12/08/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
     "12/08/26 | DOW | ANUNCIO DE DIVIDENDO DOW |  | ",
@@ -361,6 +366,7 @@
     "08/07/26 | COST | ANUNCIO DE DIVIDENDO COST |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "13/08/26 | AAPL | AVISO DE PAGO AAPL |  | ",
     "12/08/26 | LVS | AVISO DE PAGO LVS |  | ",
     "11/08/26 | ITUB | AVISO DE PAGO ITUB |  | ",
     "11/08/26 | NOK | AVISO DE PAGO NOK |  | ",
@@ -479,7 +485,6 @@
     "24/06/26 | XLI | AVISO DE PAGO XLI |  | ",
     "24/06/26 | XLK | AVISO DE PAGO XLK |  | ",
     "24/06/26 | XLP | AVISO DE PAGO XLP |  | ",
-    "24/06/26 | XLRE | AVISO DE PAGO XLRE |  | ",
-    "24/06/26 | XLV | AVISO DE PAGO XLV |  | "
+    "24/06/26 | XLRE | AVISO DE PAGO XLRE |  | "
   ]
 }
