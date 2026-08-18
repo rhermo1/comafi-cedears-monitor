@@ -244,6 +244,11 @@
     "28/01/26 | SLV | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO ISHARES SILVER TRUST (SLV) ISIN AR0863747074-Cód.8691 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "18/08/26 | CAAP | ANUNCIO DE DIVIDENDO CAAP |  | ",
+    "18/08/26 | MDLZ | ANUNCIO DE DIVIDENDO MDLZ |  | ",
+    "18/08/26 | NVO | ANUNCIO DE DIVIDENDO NVO |  | ",
+    "18/08/26 | O | ANUNCIO DE DIVIDENDO O |  | ",
+    "18/08/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "14/08/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | ",
     "14/08/26 | MMM | ANUNCIO DE DIVIDENDO MMM |  | ",
     "14/08/26 | COIN | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO- COINBASE GLOBAL INC (COIN)- ISIN ARBCOM4603U2- Cód. 8562 14-08-2026 |  | ",
@@ -358,14 +363,14 @@
     "15/07/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
     "14/07/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "14/07/26 | GS | ANUNCIO DE DIVIDENDO GS |  | ",
-    "14/07/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
-    "14/07/26 |  | ANUNCIO DE DIVIDENDO PCAR |  | ",
-    "14/07/26 | PG | ANUNCIO DE DIVIDENDO PG |  | ",
-    "13/07/26 | CCL | ANUNCIO DE DIVIDENDO CCL |  | ",
-    "13/07/26 | CVS | ANUNCIO DE DIVIDENDO CVS |  | ",
-    "13/07/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | "
+    "14/07/26 | IP | ANUNCIO DE DIVIDENDO IP |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "18/08/26 | ABT | AVISO DE PAGO ABT |  | ",
+    "18/08/26 | BKR | AVISO DE PAGO BKR |  | ",
+    "18/08/26 | BSBR | AVISO DE PAGO BSBR |  | ",
+    "18/08/26 | ING | AVISO DE PAGO ING |  | ",
+    "18/08/26 | PG | AVISO DE PAGO PG |  | ",
     "14/08/26 | ABBV | AVISO DE PAGO ABBV |  | ",
     "14/08/26 | ACN | AVISO DE PAGO ACN |  | ",
     "14/08/26 | BBD | AVISO DE PAGO BBD |  | ",
@@ -480,11 +485,6 @@
     "26/06/26 | LMT | AVISO DE PAGO LMT |  | ",
     "26/06/26 | NVDA | AVISO DE PAGO NVDA |  | ",
     "26/06/26 | SHPQ | AVISO DE PAGO SHPQ |  | ",
-    "26/06/26 | UL | AVISO DE PAGO UL |  | ",
-    "25/06/26 | HOG | AVISO DE PAGO HOG |  | ",
-    "25/06/26 | META | AVISO DE PAGO META |  | ",
-    "25/06/26 | PYPL | AVISO DE PAGO PYPL |  | ",
-    "25/06/26 | QCOM | AVISO DE PAGO QCOM |  | ",
-    "24/06/26 | HAL | AVISO DE PAGO HAL |  | "
+    "26/06/26 | UL | AVISO DE PAGO UL |  | "
   ]
 }
