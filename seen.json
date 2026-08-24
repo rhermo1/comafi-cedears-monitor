@@ -244,6 +244,9 @@
     "28/01/26 | SLV | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO ISHARES SILVER TRUST (SLV) ISIN AR0863747074-Cód.8691 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "24/08/26 | BHP | ANUNCIO DE DIVIDENDO BHP |  | ",
+    "24/08/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
+    "24/08/26 | HDB | ANUNCIO DE DIVIDENDO HDB |  | ",
     "21/08/26 | CAAP | ANUNCIO DE DIVIDENDO CAAP |  | ",
     "21/08/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | ",
     "21/08/26 | MDT | ANUNCIO DE DIVIDENDO MDT |  | ",
@@ -360,12 +363,10 @@
     "21/07/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "20/07/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
     "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX - SPECIAL CASH |  | ",
-    "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
-    "17/07/26 | PEP | ANUNCIO DE DIVIDENDO PEP |  | ",
-    "17/07/26 | QCOM | ANUNCIO DE DIVIDENDO QCOM |  | ",
-    "17/07/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | "
+    "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "24/08/26 | HDB | AVISO DE PAGO HDB |  | ",
     "19/08/26 | CAT | AVISO DE PAGO CAT |  | ",
     "18/08/26 | ABT | AVISO DE PAGO ABT |  | ",
     "18/08/26 | BKR | AVISO DE PAGO BKR |  | ",
@@ -484,7 +485,6 @@
     "26/06/26 | BP | AVISO DE PAGO BP |  | ",
     "26/06/26 | GRMN | AVISO DE PAGO GRMN |  | ",
     "26/06/26 | LMT | AVISO DE PAGO LMT |  | ",
-    "26/06/26 | NVDA | AVISO DE PAGO NVDA |  | ",
-    "26/06/26 | SHPQ | AVISO DE PAGO SHPQ |  | "
+    "26/06/26 | NVDA | AVISO DE PAGO NVDA |  | "
   ]
 }
