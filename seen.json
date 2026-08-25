@@ -244,6 +244,7 @@
     "28/01/26 | SLV | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO ISHARES SILVER TRUST (SLV) ISIN AR0863747074-Cód.8691 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "25/08/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
     "24/08/26 | BHP | ANUNCIO DE DIVIDENDO BHP |  | ",
     "24/08/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
     "24/08/26 | HDB | ANUNCIO DE DIVIDENDO HDB |  | ",
@@ -362,10 +363,11 @@
     "21/07/26 | GM | ANUNCIO DE DIVIDENDO GM |  | ",
     "21/07/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "20/07/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
-    "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX - SPECIAL CASH |  | ",
-    "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | "
+    "20/07/26 | FMX | ANUNCIO DE DIVIDENDO FMX - SPECIAL CASH |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "25/08/26 | HWM | AVISO DE PAGO HWM |  | ",
+    "25/08/26 | NVO | AVISO DE PAGO NVO |  | ",
     "24/08/26 | HDB | AVISO DE PAGO HDB |  | ",
     "19/08/26 | CAT | AVISO DE PAGO CAT |  | ",
     "18/08/26 | ABT | AVISO DE PAGO ABT |  | ",
@@ -483,8 +485,6 @@
     "26/06/26 | ARCO | AVISO DE PAGO ARCO |  | ",
     "26/06/26 | BAC | AVISO DE PAGO BAC |  | ",
     "26/06/26 | BP | AVISO DE PAGO BP |  | ",
-    "26/06/26 | GRMN | AVISO DE PAGO GRMN |  | ",
-    "26/06/26 | LMT | AVISO DE PAGO LMT |  | ",
-    "26/06/26 | NVDA | AVISO DE PAGO NVDA |  | "
+    "26/06/26 | GRMN | AVISO DE PAGO GRMN |  | "
   ]
 }
