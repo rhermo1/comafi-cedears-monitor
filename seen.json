@@ -244,6 +244,9 @@
     "09/02/26 | XRX | ANUNCIO DE  DISTRIBUCIÓN DE WARRANTS XEROX HOLDING CORPORATION (XRX)-ISIN ARBCOM4600W4-Cód.8490-ACTUALIZACIÓN 9-2 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "03/09/26 | PLD | ANUNCIOS DE DIVIDENDOS DE PLD |  | ",
+    "03/09/26 | VALE | ANUNCIOS DE DIVIDENDOS DE VALE Int On Cap |  | ",
+    "03/09/26 | VALE | ANUNCIOS DE DIVIDENDOS DE VALE- |  | ",
     "02/09/26 |  | ANUNCIO DE DIVIDENDO AVGO |  | ",
     "02/09/26 | DELL | ANUNCIO DE DIVIDENDO DELL |  | ",
     "02/09/26 | LIN | ANUNCIO DE DIVIDENDO LIN |  | ",
@@ -360,12 +363,12 @@
     "27/07/26 | BKR | ANUNCIO DE DIVIDENDO BKR |  | ",
     "27/07/26 | EQNR | ANUNCIO DE DIVIDENDO EQNR |  | ",
     "24/07/26 | BAC | ANUNCIO DE DIVIDENDO BAC |  | ",
-    "24/07/26 | HON | ANUNCIO DE DIVIDENDO HON |  | ",
-    "24/07/26 | KB | ANUNCIO DE DIVIDENDO KB |  | ",
-    "24/07/26 | MCD | ANUNCIO DE DIVIDENDO MCD |  | ",
-    "24/07/26 | SCHW | ANUNCIO DE DIVIDENDO SCHW |  | "
+    "24/07/26 | HON | ANUNCIO DE DIVIDENDO HON |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "03/09/26 | KGC | AVISO DE PAGO KGC |  | ",
+    "03/09/26 | RTX | AVISO DE PAGO RTX |  | ",
+    "03/09/26 | TJX | AVISO DE PAGO TJX |  | ",
     "02/09/26 | GLNG | AVISO DE PAGO GLNG |  | ",
     "02/09/26 | GPRK | AVISO DE PAGO GPRK |  | ",
     "02/09/26 | PCAR | AVISO DE PAGO PCAR |  | ",
@@ -482,9 +485,6 @@
     "01/07/26 | ADP | AVISO DE PAGO ADP |  | ",
     "01/07/26 | HPQ | AVISO DE PAGO HPQ |  | ",
     "01/07/26 | KO | AVISO DE PAGO KO |  | ",
-    "01/07/26 | NKE | AVISO DE PAGO NKE |  | ",
-    "30/06/26 | AVGO | AVISO DE PAGO AVGO |  | ",
-    "30/06/26 | BKNG | AVISO DE PAGO BKNG |  | ",
-    "30/06/26 | ORANY | AVISO DE PAGO ORANY |  | "
+    "01/07/26 | NKE | AVISO DE PAGO NKE |  | "
   ]
 }
