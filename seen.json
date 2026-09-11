@@ -366,6 +366,10 @@
     "29/07/26 | RIO | ANUNCIO DE DIVIDENDO RIO |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "11/09/26 | AMGN | AVISO DE PAGO AMGN |  | ",
+    "11/09/26 | DOW | AVISO DE PAGO DOW |  | ",
+    "11/09/26 | EBAY | AVISO DE PAGO EBAY |  | ",
+    "11/09/26 | MMM | AVISO DE PAGO MMM |  | ",
     "10/09/26 | AMAT | AVISO DE PAGO AMAT |  | ",
     "10/09/26 | BBD | AVISO DE PAGO BBD |  | ",
     "10/09/26 | CAAP | AVISO DE PAGO CAAP |  | ",
@@ -481,10 +485,6 @@
     "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
     "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
     "15/07/26 | ECL | AVISO DE PAGO ECL |  | ",
-    "15/07/26 | MSI | AVISO DE PAGO MSI |  | ",
-    "15/07/26 | O | AVISO DE PAGO O |  | ",
-    "15/07/26 | TMO | AVISO DE PAGO TMO |  | ",
-    "15/07/26 | USB | AVISO DE PAGO USB |  | ",
-    "14/07/26 | JOYY | AVISO DE PAGO JOYY |  | "
+    "15/07/26 | MSI | AVISO DE PAGO MSI |  | "
   ]
 }
