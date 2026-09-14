@@ -244,6 +244,7 @@
     "23/02/26 | NFLX | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO-NETFLIX INC (NFLX)-ISIN ARBCOM4601D2-Cód.8474-23.2.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "14/09/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | ",
     "11/09/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "11/09/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
     "11/09/26 | META | ANUNCIO DE DIVIDENDO META |  | ",
@@ -362,10 +363,11 @@
     "30/07/26 | LYG | ANUNCIO DE DIVIDENDO LYG |  | ",
     "30/07/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
     "30/07/26 | SHEL | ANUNCIO DE DIVIDENDO SHEL |  | ",
-    "30/07/26 | VOD | ANUNCIO DE DIVIDENDO VOD |  | ",
-    "30/07/26 | VST | ANUNCIO DE DIVIDENDO VST |  | "
+    "30/07/26 | VOD | ANUNCIO DE DIVIDENDO VOD |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "14/09/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
+    "14/09/26 | UGP | AVISO DE PAGO UGP |  | ",
     "11/09/26 | AMGN | AVISO DE PAGO AMGN |  | ",
     "11/09/26 | DOW | AVISO DE PAGO DOW |  | ",
     "11/09/26 | EBAY | AVISO DE PAGO EBAY |  | ",
@@ -483,8 +485,6 @@
     "21/07/26 | VIV | AVISO DE PAGO VIV |  | ",
     "20/07/26 | PM | AVISO DE PAGO PM |  | ",
     "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
-    "15/07/26 | CAH | AVISO DE PAGO CAH |  | ",
-    "15/07/26 | ECL | AVISO DE PAGO ECL |  | ",
-    "15/07/26 | MSI | AVISO DE PAGO MSI |  | "
+    "15/07/26 | CAH | AVISO DE PAGO CAH |  | "
   ]
 }
