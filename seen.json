@@ -244,6 +244,10 @@
     "27/02/26 | ORANY | INFORMACION RELEVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 27.02.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "15/09/26 | GFI | ANUNCIO DE DIVIDENDO GFI |  | ",
+    "15/09/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
+    "15/09/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
+    "15/09/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "15/09/26 | ESGU | ANUNCIO DE DIVIDENDO ESGU |  | ",
     "15/09/26 | IBB | ANUNCIO DE DIVIDENDO IBB |  | ",
     "15/09/26 | IJH | ANUNCIO DE DIVIDENDO IJH |  | ",
@@ -359,13 +363,20 @@
     "31/07/26 | HHPD LI | ANUNCIO DE DIVIDENDO HHPD LI |  | ",
     "31/07/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
     "31/07/26 | VALE | ANUNCIO DE DIVIDENDO VALE Int on Cap |  | ",
-    "31/07/26 | VALE | ANUNCIO DE DIVIDENDO VALE- |  | ",
-    "31/07/26 | XOM | ANUNCIO DE DIVIDENDO XOM |  | ",
-    "30/07/26 | AEM | ANUNCIO DE DIVIDENDO AEM |  | ",
-    "30/07/26 | AMGN | ANUNCIO DE DIVIDENDO AMGN |  | ",
-    "30/07/26 | HSY | ANUNCIO DE DIVIDENDO HSY |  | "
+    "31/07/26 | VALE | ANUNCIO DE DIVIDENDO VALE- |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "15/09/26 | ADI | AVISO DE PAGO ADI |  | ",
+    "15/09/26 | AEM | AVISO DE PAGO AEM |  | ",
+    "15/09/26 | B | AVISO DE PAGO B |  | ",
+    "15/09/26 | BCS | AVISO DE PAGO BCS |  | ",
+    "15/09/26 | DD | AVISO DE PAGO DD |  | ",
+    "15/09/26 | EFX | AVISO DE PAGO EFX |  | ",
+    "15/09/26 | HSY | AVISO DE PAGO HSY |  | ",
+    "15/09/26 | IP | AVISO DE PAGO IP |  | ",
+    "15/09/26 | NEE | AVISO DE PAGO NEE |  | ",
+    "15/09/26 | O | AVISO DE PAGO O |  | ",
+    "15/09/26 | PKX | AVISO DE PAGO PKX |  | ",
     "14/09/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
     "14/09/26 | UGP | AVISO DE PAGO UGP |  | ",
     "11/09/26 | AMGN | AVISO DE PAGO AMGN |  | ",
@@ -474,17 +485,6 @@
     "28/07/26 | FMX | AVISO DE PAGO FMX |  | ",
     "27/07/26 | GE | AVISO DE PAGO GE |  | ",
     "24/07/26 | APP | AVISO DE PAGO AAP |  | ",
-    "24/07/26 | KOF | AVISO DE PAGO KOF |  | ",
-    "24/07/26 | ORCL | AVISO DE PAGO ORCL |  | ",
-    "24/07/26 | SYY | AVISO DE PAGO SYY |  | ",
-    "23/07/26 | NGG | AVISO DE PAGO NGG |  | ",
-    "23/07/26 | TTE | AVISO DE PAGO TTE |  | ",
-    "22/07/26 | AMX | AVISO DE PAGO AMX |  | ",
-    "22/07/26 | CSCO | AVISO DE PAGO CSCO |  | ",
-    "22/07/26 | DIS | AVISO DE PAGO DIS |  | ",
-    "21/07/26 | VIV | AVISO DE PAGO VIV |  | ",
-    "20/07/26 | PM | AVISO DE PAGO PM |  | ",
-    "17/07/26 | MDT | AVISO DE PAGO MDT |  | ",
-    "15/07/26 | CAH | AVISO DE PAGO CAH |  | "
+    "24/07/26 | KOF | AVISO DE PAGO KOF |  | "
   ]
 }
