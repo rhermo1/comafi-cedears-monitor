@@ -244,6 +244,15 @@
     "27/02/26 | ORANY | INFORMACION RELEVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 27.02.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "16/09/26 |  | ANUNCIO DE DIVIDENDO BMY |  | ",
+    "16/09/26 | DHR | ANUNCIO DE DIVIDENDO DHR |  | ",
+    "16/09/26 | HMY | ANUNCIO DE DIVIDENDO HMY |  | ",
+    "16/09/26 | JPM | ANUNCIO DE DIVIDENDO JPM |  | ",
+    "16/09/26 | MRSH | ANUNCIO DE DIVIDENDO MRSH |  | ",
+    "16/09/26 | MSFT | ANUNCIO DE DIVIDENDO MSFT |  | ",
+    "16/09/26 | MUFG | ANUNCIO DE DIVIDENDO MUFG |  | ",
+    "16/09/26 | NMR | ANUNCIO DE DIVIDENDO NMR |  | ",
+    "16/09/26 | TJX | ANUNCIO DE DIVIDENDO TJX |  | ",
     "15/09/26 | GFI | ANUNCIO DE DIVIDENDO GFI |  | ",
     "15/09/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
     "15/09/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
@@ -354,18 +363,11 @@
     "04/08/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
     "04/08/26 | BP | ANUNCIO DE DIVIDENDO BP |  | ",
     "04/08/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
-    "04/08/26 | GILD | ANUNCIO DE DIVIDENDO GILD |  | ",
-    "04/08/26 | HSBC | ANUNCIO DE DIVIDENDO HSBC |  | ",
-    "03/08/26 | FCX | ANUNCIO DE DIVIDENDO FCX |  | ",
-    "03/08/26 | KMB | ANUNCIO DE DIVIDENDO KMB |  | ",
-    "31/07/26 | AAPL | ANUNCIO DE DIVIDENDO AAPL |  | ",
-    "31/07/26 | CVX | ANUNCIO DE DIVIDENDO CVX |  | ",
-    "31/07/26 | HHPD LI | ANUNCIO DE DIVIDENDO HHPD LI |  | ",
-    "31/07/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
-    "31/07/26 | VALE | ANUNCIO DE DIVIDENDO VALE Int on Cap |  | ",
-    "31/07/26 | VALE | ANUNCIO DE DIVIDENDO VALE- |  | "
+    "04/08/26 | GILD | ANUNCIO DE DIVIDENDO GILD |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "16/09/26 | AVY | AVISO DE PAGO AVY |  | ",
+    "16/09/26 | MCD | AVISO DE PAGO MCD |  | ",
     "15/09/26 | ADI | AVISO DE PAGO ADI |  | ",
     "15/09/26 | AEM | AVISO DE PAGO AEM |  | ",
     "15/09/26 | B | AVISO DE PAGO B |  | ",
@@ -483,8 +485,6 @@
     "29/07/26 | TIMB | AVISO DE PAGO TIMB |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX - SPECIAL CASH |  | ",
     "28/07/26 | FMX | AVISO DE PAGO FMX |  | ",
-    "27/07/26 | GE | AVISO DE PAGO GE |  | ",
-    "24/07/26 | APP | AVISO DE PAGO AAP |  | ",
-    "24/07/26 | KOF | AVISO DE PAGO KOF |  | "
+    "27/07/26 | GE | AVISO DE PAGO GE |  | "
   ]
 }
