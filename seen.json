@@ -244,6 +244,8 @@
     "27/03/26 | ORANY | INFORMACION RELEVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 27.03.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "29/09/26 | AXP | ANUNCIO DE DIVIDENDO AXP |  | ",
+    "29/09/26 | KOF | ANUNCIO DE DIVIDENDO KOF |  | ",
     "25/09/26 | BBD | ANUNCIO DE DIVIDENDO BBD - |  | ",
     "25/09/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "25/09/26 | DAL | ANUNCIO DE DIVIDENDO DAL |  | ",
@@ -361,11 +363,16 @@
     "18/08/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
     "14/08/26 | EMBJ | ANUNCIO DE DIVIDENDO EMBJ |  | ",
     "14/08/26 | MMM | ANUNCIO DE DIVIDENDO MMM |  | ",
-    "14/08/26 | COIN | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO- COINBASE GLOBAL INC (COIN)- ISIN ARBCOM4603U2- Cód. 8562 14-08-2026 |  | ",
-    "13/08/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "13/08/26 | DEO | ANUNCIO DE DIVIDENDO DEO |  | "
+    "14/08/26 | COIN | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO- COINBASE GLOBAL INC (COIN)- ISIN ARBCOM4603U2- Cód. 8562 14-08-2026 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "29/09/26 | BBD | AVISO DE PAGO BBD |  | ",
+    "29/09/26 | GILD | AVISO DE PAGO GILD |  | ",
+    "29/09/26 | GLW | AVISO DE PAGO GLW |  | ",
+    "29/09/26 | GS | AVISO DE PAGO GS |  | ",
+    "29/09/26 | HOG | AVISO DE PAGO HOG |  | ",
+    "29/09/26 | PBR | AVISO DE PAGO PBR |  | ",
+    "29/09/26 | PSQ | AVISO DE PAGO PSQ |  | ",
     "28/09/26 | ARCO | AVISO DE PAGO ARCO |  | ",
     "28/09/26 | GRMN | AVISO DE PAGO GRMN |  | ",
     "28/09/26 | META | AVISO DE PAGO META |  | ",
@@ -478,13 +485,6 @@
     "27/08/26 | SCCO | AVISO DE PAGO SCCO |  | ",
     "27/08/26 | VRSN | AVISO DE PAGO VRSN |  | ",
     "25/08/26 | HWM | AVISO DE PAGO HWM |  | ",
-    "25/08/26 | NVO | AVISO DE PAGO NVO |  | ",
-    "24/08/26 | HDB | AVISO DE PAGO HDB |  | ",
-    "19/08/26 | CAT | AVISO DE PAGO CAT |  | ",
-    "18/08/26 | ABT | AVISO DE PAGO ABT |  | ",
-    "18/08/26 | BKR | AVISO DE PAGO BKR |  | ",
-    "18/08/26 | BSBR | AVISO DE PAGO BSBR |  | ",
-    "18/08/26 | ING | AVISO DE PAGO ING |  | ",
-    "18/08/26 | PG | AVISO DE PAGO PG |  | "
+    "25/08/26 | NVO | AVISO DE PAGO NVO |  | "
   ]
 }
