@@ -244,11 +244,13 @@
     "27/03/26 | OGZD | INFORMACION RELEVANTE- PROGRAMA CEDEARS ADRs GAZPROM (OGZD)-Cód.8379-ISIN ARDEUT114261-27.03.26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
-    "06/10/26 |  | ANUNCIO DE DIVIDENDO AKO.B |  | ",
-    "06/10/26 |  | ANUNCIO DE DIVIDENDO BBVA |  | ",
-    "06/10/26 |  | ANUNCIO DE DIVIDENDO E |  | ",
-    "06/10/26 |  | ANUNCIO DE DIVIDENDO GSK |  | ",
-    "06/10/26 |  | ANUNCIO DE DIVIDENDO PFE |  | ",
+    "07/10/26 | GLW | ANUNCIO DE DIVIDENDO GLW |  | ",
+    "07/10/26 | SBUX | ANUNCIO DE DIVIDENDO SBUX |  | ",
+    "06/10/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
+    "06/10/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | ",
+    "06/10/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
+    "06/10/26 | GSK | ANUNCIO DE DIVIDENDO GSK |  | ",
+    "06/10/26 | PFE | ANUNCIO DE DIVIDENDO PFE |  | ",
     "05/10/26 | LND | ANUNCIO DE DIVIDENDO LND |  | ",
     "02/10/26 | BBVA | ANUNCIO DE DIVIDENDO BBVA |  | ",
     "01/10/26 | ACN | ANUNCIO DE DIVIDENDO ACN |  | ",
@@ -361,11 +363,11 @@
     "24/08/26 | BHP | ANUNCIO DE DIVIDENDO BHP |  | ",
     "24/08/26 | HAL | ANUNCIO DE DIVIDENDO HAL |  | ",
     "24/08/26 | HDB | ANUNCIO DE DIVIDENDO HDB |  | ",
-    "21/08/26 | CAAP | ANUNCIO DE DIVIDENDO CAAP |  | ",
-    "21/08/26 | FDX | ANUNCIO DE DIVIDENDO FDX |  | ",
-    "21/08/26 | MDT | ANUNCIO DE DIVIDENDO MDT |  | "
+    "21/08/26 | CAAP | ANUNCIO DE DIVIDENDO CAAP |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "07/10/26 | HPQ | AVISO DE PAGO HPQ |  | ",
+    "07/10/26 | MRK | AVISO DE PAGO MRK |  | ",
     "02/10/26 | KMB | AVISO DE PAGO KMB |  | ",
     "01/10/26 | ADP | AVISO DE PAGO ADP |  | ",
     "01/10/26 | FDX | AVISO DE PAGO FDX |  | ",
@@ -483,8 +485,6 @@
     "04/09/26 | PAAS | AVISO DE PAGO PAAS |  | ",
     "03/09/26 | KGC | AVISO DE PAGO KGC |  | ",
     "03/09/26 | RTX | AVISO DE PAGO RTX |  | ",
-    "03/09/26 | TJX | AVISO DE PAGO TJX |  | ",
-    "02/09/26 | GLNG | AVISO DE PAGO GLNG |  | ",
-    "02/09/26 | GPRK | AVISO DE PAGO GPRK |  | "
+    "03/09/26 | TJX | AVISO DE PAGO TJX |  | "
   ]
 }
