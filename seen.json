@@ -122,7 +122,7 @@
     "31/10/25 | XLP | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO-The Consumer Staples Select Sector SPDR Fund (XLP)-ISIN AR0887077425-CÓD.8673 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/eventos-corporativos.aspx": [
-    "22/10/26 | HWM | ANUNCIO DE CAMBIO DE RATIO HOWMET AEROSPACE INC (HWM) - ISIN ARDEUT110020- Cód. 8007 22-10-2026 Actualización |  | ",
+    "22/10/26 | HWM | ANUNCIO DE CAMBIO DE RATIO HOWMET AEROSPACE INC (HWM) - ISIN ARDEUT110020- Cód. 8007 22-10-2026- RECTIFICACIÓN |  | ",
     "21/10/26 | CRWV | COREWEAVE INC. (CRWV) - ISIN AR0478754218- Cód. 8710- Ampliacion Monto Maximo 21-10-2026 |  | ",
     "19/10/26 | BAK | BANCO COMAFI - PPROGRAMA CEDEARS BRASKEM SA– Cod. CDV. 8591- AR0261973801- INFORMACION RELEVANTE 19-10-26 |  | ",
     "16/10/26 | TMUS | T-MOBILE US INC. (TMUS)- ISIN AR0964115726 - Cód. 8640 Ampliacion Monto Maximo 16-10-2026 |  | ",
@@ -244,6 +244,11 @@
     "13/04/26 | NIO | INFORMACIÓN RELEVANTE - PROGRAMA CEDEARS CEDEARS NIO INC (NIO)-ISIN ARBCOM4603R8-CÓD.8559 ADR FEE |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "22/10/26 | BX | ANUNCIO DE DIVIDENDO BX |  | ",
+    "22/10/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
+    "22/10/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
+    "22/10/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | ",
+    "22/10/26 | WDC | ANUNCIO DE DIVIDENDO WDC |  | ",
     "21/10/26 | BAC | ANUNCIO DE DIVIDENDO BAC |  | ",
     "21/10/26 | FMX | ANUNCIO DE DIVIDENDO FMX |  | ",
     "21/10/26 | FMX | ANUNCIO DE DIVIDENDO FMX- |  | ",
@@ -358,12 +363,7 @@
     "15/09/26 | IVE | ANUNCIO DE DIVIDENDO IVE |  | ",
     "15/09/26 | IVV | ANUNCIO DE DIVIDENDO IVV |  | ",
     "15/09/26 | IVW | ANUNCIO DE DIVIDENDO IVW |  | ",
-    "14/09/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | ",
-    "11/09/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "11/09/26 | GGB | ANUNCIO DE DIVIDENDO GGB |  | ",
-    "11/09/26 | META | ANUNCIO DE DIVIDENDO META |  | ",
-    "10/09/26 | ABBV | ANUNCIO DE DIVIDENDO ABBV |  | ",
-    "10/09/26 | AMAT | ANUNCIO DE DIVIDENDO AMAT |  | "
+    "14/09/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
     "21/10/26 | CSCO | AVISO DE PAGO CSCO |  | ",
