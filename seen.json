@@ -244,6 +244,13 @@
     "20/04/26 | NU | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO- NU HOLDINGS LTD.CAYMAN ISLANDS  (NU) - ISIN AR0512295764-Cód. 8596 20042026 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "23/10/26 | AMX | ANUNCIO DE DIVIDENDO AMX |  | ",
+    "23/10/26 | AVY | ANUNCIO DE DIVIDENDO AVY |  | ",
+    "23/10/26 | CCL | ANUNCIO DE DIVIDENDO CCL |  | ",
+    "23/10/26 | INFY | ANUNCIO DE DIVIDENDO INFY |  | ",
+    "23/10/26 | NEM | ANUNCIO DE DIVIDENDO NEM |  | ",
+    "23/10/26 | SCHW | ANUNCIO DE DIVIDENDO SCHW |  | ",
+    "23/10/26 | SLB | ANUNCIO DE DIVIDENDO SLB |  | ",
     "22/10/26 | BX | ANUNCIO DE DIVIDENDO BX |  | ",
     "22/10/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
     "22/10/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
@@ -356,16 +363,13 @@
     "15/09/26 | GFI | ANUNCIO DE DIVIDENDO GFI |  | ",
     "15/09/26 | HMC | ANUNCIO DE DIVIDENDO HMC |  | ",
     "15/09/26 | PSO | ANUNCIO DE DIVIDENDO PSO |  | ",
-    "15/09/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | ",
-    "15/09/26 | ESGU | ANUNCIO DE DIVIDENDO ESGU |  | ",
-    "15/09/26 | IBB | ANUNCIO DE DIVIDENDO IBB |  | ",
-    "15/09/26 | IJH | ANUNCIO DE DIVIDENDO IJH |  | ",
-    "15/09/26 | IVE | ANUNCIO DE DIVIDENDO IVE |  | ",
-    "15/09/26 | IVV | ANUNCIO DE DIVIDENDO IVV |  | ",
-    "15/09/26 | IVW | ANUNCIO DE DIVIDENDO IVW |  | ",
-    "14/09/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | "
+    "15/09/26 | VIV | ANUNCIO DE DIVIDENDO VIV |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "23/10/26 | AAP | AVISO DE PAGO AAP |  | ",
+    "23/10/26 | KOF | AVISO DE PAGO KOF |  | ",
+    "23/10/26 | ORCL | AVISO DE PAGO ORCL |  | ",
+    "23/10/26 | SYY | AVISO DE PAGO SYY |  | ",
     "21/10/26 | CSCO | AVISO DE PAGO CSCO |  | ",
     "21/10/26 | TTE | AVISO DE PAGO TTE |  | ",
     "19/10/26 | HMY | AVISO DE PAGO HMY |  | ",
@@ -481,10 +485,6 @@
     "14/09/26 | GOOGL | AVISO DE PAGO GOOGL |  | ",
     "14/09/26 | UGP | AVISO DE PAGO UGP |  | ",
     "11/09/26 | AMGN | AVISO DE PAGO AMGN |  | ",
-    "11/09/26 | DOW | AVISO DE PAGO DOW |  | ",
-    "11/09/26 | EBAY | AVISO DE PAGO EBAY |  | ",
-    "11/09/26 | MMM | AVISO DE PAGO MMM |  | ",
-    "10/09/26 | AMAT | AVISO DE PAGO AMAT |  | ",
-    "10/09/26 | BBD | AVISO DE PAGO BBD |  | "
+    "11/09/26 | DOW | AVISO DE PAGO DOW |  | "
   ]
 }
