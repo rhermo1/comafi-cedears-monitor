@@ -244,6 +244,12 @@
     "21/04/26 | ADBE | ANUNCIO DE AMPLIACIÓN DE MONTO MÁXIMO-ADOBE INC (ADBE)- ISIN ARBCOM460192-Cód. 8470 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "30/10/26 | ABBV | ANUNCIO DE DIVIDENDO ABBV |  | ",
+    "30/10/26 | BP | ANUNCIO DE DIVIDENDO BP |  | ",
+    "30/10/26 | CCJ | ANUNCIO DE DIVIDENDO CCJ |  | ",
+    "30/10/26 | CEG | ANUNCIO DE DIVIDENDO CEG |  | ",
+    "30/10/26 | CVX | ANUNCIO DE DIVIDENDO CVX |  | ",
+    "30/10/26 | XOM | ANUNCIO DE DIVIDENDO XOM |  | ",
     "29/10/26 | AEM | ANUNCIO DE DIVIDENDO AEM |  | ",
     "29/10/26 | EBAY | ANUNCIO DE DIVIDENDO EBAY |  | ",
     "29/10/26 | GILD | ANUNCIO DE DIVIDENDO GILD |  | ",
@@ -357,15 +363,12 @@
     "24/09/26 | T | ANUNCIO DE DIVIDENDO T |  | ",
     "24/09/26 | TMUS | ANUNCIO DE DIVIDENDO TMUS |  | ",
     "23/09/26 | FCX | ANUNCIO DE DIVIDENDO FCX |  | ",
-    "23/09/26 | PSQ | ANUNCIO DE DIVIDENDO PSQ |  | ",
-    "23/09/26 | TGT | ANUNCIO DE DIVIDENDO TGT |  | ",
-    "22/09/26 | BBAX | ANUNCIO DE DIVIDENDO BBAX |  | ",
-    "22/09/26 | BBCA | ANUNCIO DE DIVIDENDO BBCA |  | ",
-    "22/09/26 | GE | ANUNCIO DE DIVIDENDO GE |  | ",
-    "21/09/26 | SPHQ | ANUNCIO DE DIVIDENDO SPHQ |  | ",
-    "18/09/26 | CL | ANUNCIO DE DIVIDENDO CL |  | "
+    "23/09/26 | PSQ | ANUNCIO DE DIVIDENDO PSQ |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "30/10/26 | DELL | AVISO DE PAGO DELL |  | ",
+    "30/10/26 | DHR | AVISO DE PAGO DHR |  | ",
+    "30/10/26 | XRX | AVISO DE PAGO XRX |  | ",
     "29/10/26 | MRVL | AVISO DE PAGO MRVL |  | ",
     "26/10/26 |  | AVISO DE PAGO FMX |  | ",
     "26/10/26 |  | AVISO DE PAGO FMX- |  | ",
@@ -482,9 +485,6 @@
     "15/09/26 | BCS | AVISO DE PAGO BCS |  | ",
     "15/09/26 | DD | AVISO DE PAGO DD |  | ",
     "15/09/26 | EFX | AVISO DE PAGO EFX |  | ",
-    "15/09/26 | HSY | AVISO DE PAGO HSY |  | ",
-    "15/09/26 | IP | AVISO DE PAGO IP |  | ",
-    "15/09/26 | NEE | AVISO DE PAGO NEE |  | ",
-    "15/09/26 | O | AVISO DE PAGO O |  | "
+    "15/09/26 | HSY | AVISO DE PAGO HSY |  | "
   ]
 }
