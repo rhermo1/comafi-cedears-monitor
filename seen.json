@@ -244,6 +244,13 @@
     "08/05/26 | ORANY | INFORMACION RELEVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 08-05-26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "13/11/26 | AMX | ANUNCIO DE DIVIDENDO AMX |  | ",
+    "13/11/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
+    "13/11/26 | INFY | ANUNCIO DE DIVIDENDO INFY |  | ",
+    "13/11/26 | PBR | ANUNCIO DE DIVIDENDO PBR |  | ",
+    "13/11/26 | PBR | ANUNCIO DE DIVIDENDO PBR-29-3-2027 |  | ",
+    "13/11/26 | PKX | ANUNCIO DE DIVIDENDO PKX |  | ",
+    "13/11/26 | UGP | ANUNCIO DE DIVIDENDO UGP |  | ",
     "12/11/26 | CAH | ANUNCIO DE DIVIDENDO CAH |  | ",
     "12/11/26 | E | ANUNCIO DE DIVIDENDO E |  | ",
     "12/11/26 | KMB | ANUNCIO DE DIVIDENDO KMB |  | ",
@@ -356,16 +363,16 @@
     "14/10/26 | COST | ANUNCIO DE DIVIDENDO COST |  | ",
     "14/10/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
     "14/10/26 | HMY | ANUNCIO DE DIVIDENDO HMY |  | ",
-    "14/10/26 | HWM | ANUNCIO DE DIVIDENDO HWM |  | ",
-    "14/10/26 | MS | ANUNCIO DE DIVIDENDO MS |  | ",
-    "13/10/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
-    "13/10/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
-    "13/10/26 | ELPC | ANUNCIO DE DIVIDENDO ELPC |  | ",
-    "13/10/26 | GS | ANUNCIO DE DIVIDENDO GS |  | ",
-    "13/10/26 | IP | ANUNCIO DE DIVIDENDO IP |  | ",
-    "13/10/26 | JNJ | ANUNCIO DE DIVIDENDO JNJ |  | "
+    "14/10/26 | HWM | ANUNCIO DE DIVIDENDO HWM |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "13/11/26 |  | ANUNCIO DE LIQUIDACIÓN ALTABA |  | ",
+    "13/11/26 | ACN | AVISO DE PAGO ACN |  | ",
+    "13/11/26 | CL | AVISO DE PAGO CL |  | ",
+    "13/11/26 | COST | AVISO DE PAGO COST |  | ",
+    "13/11/26 | MRSH | AVISO DE PAGO MRSH |  | ",
+    "13/11/26 | MS | AVISO DE PAGO MS |  | ",
+    "13/11/26 | O | AVISO DE PAGO O |  | ",
     "12/11/26 | AKO.B | AVISO DE PAGO AKO.B |  | ",
     "12/11/26 | AXP | AVISO DE PAGO AXP |  | ",
     "12/11/26 | BBD | AVISO DE PAGO BBD |  | ",
@@ -478,13 +485,6 @@
     "23/09/26 | XLB | AVISO DE PAGO XLB |  | ",
     "23/09/26 | XLC | AVISO DE PAGO XLC |  | ",
     "23/09/26 | XLI | AVISO DE PAGO XLI |  | ",
-    "23/09/26 | XLK | AVISO DE PAGO XLK |  | ",
-    "23/09/26 | XLP | AVISO DE PAGO XLP |  | ",
-    "23/09/26 | XLRE | AVISO DE PAGO XLRE |  | ",
-    "23/09/26 | XLV | AVISO DE PAGO XLV |  | ",
-    "23/09/26 | XLY | AVISO DE PAGO XLY |  | ",
-    "22/09/26 | UNH | AVISO DE PAGO UNH |  | ",
-    "22/09/26 | VEA | AVISO DE PAGO VEA |  | ",
-    "21/09/26 | SHEL | AVISO DE PAGO SHEL |  | "
+    "23/09/26 | XLK | AVISO DE PAGO XLK |  | "
   ]
 }
