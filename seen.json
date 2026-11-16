@@ -244,6 +244,8 @@
     "08/05/26 | ORANY | INFORMACION RELEVANTE - ORANGE-SPON ADR (ORANY)- Cod. CDV 8192– ISIN ARDEUT111861 08-05-26 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "16/11/26 | BSBR | ANUNCIO DE DIVIDENDO BSBR |  | ",
+    "16/11/26 | SYY | ANUNCIO DE DIVIDENDO SYY |  | ",
     "13/11/26 | AMX | ANUNCIO DE DIVIDENDO AMX |  | ",
     "13/11/26 | CSCO | ANUNCIO DE DIVIDENDO CSCO |  | ",
     "13/11/26 | INFY | ANUNCIO DE DIVIDENDO INFY |  | ",
@@ -361,11 +363,14 @@
     "14/10/26 | BBD | ANUNCIO DE DIVIDENDO BBD |  | ",
     "14/10/26 | CAT | ANUNCIO DE DIVIDENDO CAT |  | ",
     "14/10/26 | COST | ANUNCIO DE DIVIDENDO COST |  | ",
-    "14/10/26 | DD | ANUNCIO DE DIVIDENDO DD |  | ",
-    "14/10/26 | HMY | ANUNCIO DE DIVIDENDO HMY |  | ",
-    "14/10/26 | HWM | ANUNCIO DE DIVIDENDO HWM |  | "
+    "14/10/26 | DD | ANUNCIO DE DIVIDENDO DD |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "16/11/26 | AAPL | AVISO DE PAGO AAPL |  | ",
+    "16/11/26 | ABBV | AVISO DE PAGO ABBV |  | ",
+    "16/11/26 | ABT | AVISO DE PAGO ABT |  | ",
+    "16/11/26 | PAC | AVISO DE PAGO PAC |  | ",
+    "16/11/26 | PG | AVISO DE PAGO PG |  | ",
     "13/11/26 |  | ANUNCIO DE LIQUIDACIÓN ALTABA |  | ",
     "13/11/26 | ACN | AVISO DE PAGO ACN |  | ",
     "13/11/26 | CL | AVISO DE PAGO CL |  | ",
@@ -480,11 +485,6 @@
     "24/09/26 | GFI | AVISO DE PAGO GFI |  | ",
     "24/09/26 | QCOM | AVISO DE PAGO QCOM |  | ",
     "24/09/26 | RIO | AVISO DE PAGO RIO |  | ",
-    "23/09/26 | BHP | AVISO DE PAGO BHP |  | ",
-    "23/09/26 | HAL | AVISO DE PAGO HAL |  | ",
-    "23/09/26 | XLB | AVISO DE PAGO XLB |  | ",
-    "23/09/26 | XLC | AVISO DE PAGO XLC |  | ",
-    "23/09/26 | XLI | AVISO DE PAGO XLI |  | ",
-    "23/09/26 | XLK | AVISO DE PAGO XLK |  | "
+    "23/09/26 | BHP | AVISO DE PAGO BHP |  | "
   ]
 }
