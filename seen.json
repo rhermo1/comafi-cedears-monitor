@@ -244,6 +244,9 @@
     "12/05/26 | BNY | ANUNCIO DE CAMBIO DE TICKER  BANK OF NEW YORK MELLON CORP (BK)- Cod. CDV 8080 - ISIN ARDEUT110756 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "19/11/26 | AGRO | ANUNCIO DE DIVIDENDO AGRO |  | ",
+    "19/11/26 | JOYY | ANUNCIO DE DIVIDENDO JOYY |  | ",
+    "19/11/26 | NTES | ANUNCIO DE DIVIDENDO NTES |  | ",
     "18/11/26 | GLNG | ANUNCIO DE DIVIDENDO GLNG |  | ",
     "18/11/26 | NVDA | ANUNCIO DE DIVIDENDO NVDA |  | ",
     "17/11/26 | DIS | ANUNCIO DE DIVIDENDO DIS PD 13.7.27 |  | ",
@@ -360,12 +363,15 @@
     "20/10/26 | GM | ANUNCIO DE DIVIDENDO GM |  | ",
     "16/10/26 | ABEV | ANUNCIO DE DIVIDENDO ABEV |  | ",
     "16/10/26 | PSX | ANUNCIO DE DIVIDENDO PSX |  | ",
-    "16/10/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | ",
-    "16/10/26 | TRV | ANUNCIO DE DIVIDENDO TRV |  | ",
-    "15/10/26 | ASML | ANUNCIO DE DIVIDENDO ASML |  | ",
-    "15/10/26 | BNY | ANUNCIO DE DIVIDENDO BNY |  | "
+    "16/10/26 | SCCO | ANUNCIO DE DIVIDENDO SCCO |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "19/11/26 | AGRO | AVISO DE PAGO AGRO |  | ",
+    "19/11/26 | BSBR | AVISO DE PAGO BSBR |  | ",
+    "19/11/26 | CAT | AVISO DE PAGO CAT |  | ",
+    "19/11/26 | INFY | AVISO DE PAGO INFY |  | ",
+    "19/11/26 | SCCO | AVISO DE PAGO SCCO |  | ",
+    "19/11/26 | WELL | AVISO DE PAGO WELL |  | ",
     "18/11/26 | AMX | AVISO DE PAGO AMX |  | ",
     "16/11/26 | AAPL | AVISO DE PAGO AAPL |  | ",
     "16/11/26 | ABBV | AVISO DE PAGO ABBV |  | ",
@@ -479,12 +485,6 @@
     "25/09/26 | LYG | AVISO DE PAGO LYG |  | ",
     "25/09/26 | PYPL | AVISO DE PAGO PYPL |  | ",
     "25/09/26 | SPHQ | AVISO DE PAGO SPHQ |  | ",
-    "24/09/26 | AEG | AVISO DE PAGO AEG |  | ",
-    "24/09/26 | BBAX | AVISO DE PAGO BBAX |  | ",
-    "24/09/26 | BBCA | AVISO DE PAGO BBCA |  | ",
-    "24/09/26 | CX | AVISO DE PAGO CX |  | ",
-    "24/09/26 | GFI | AVISO DE PAGO GFI |  | ",
-    "24/09/26 | QCOM | AVISO DE PAGO QCOM |  | ",
-    "24/09/26 | RIO | AVISO DE PAGO RIO |  | "
+    "24/09/26 | AEG | AVISO DE PAGO AEG |  | "
   ]
 }
