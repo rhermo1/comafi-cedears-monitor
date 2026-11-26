@@ -366,6 +366,10 @@
     "22/10/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "25/11/26 | C | AVISO DE PAGO C |  | ",
+    "25/11/26 | EQNR | AVISO DE PAGO EQNR |  | ",
+    "25/11/26 | HWM | AVISO DE PAGO HWM |  | ",
+    "25/11/26 | LND | AVISO DE PAGO LND |  | ",
     "24/11/26 | GEV | AVISO DE PAGO GEV |  | ",
     "24/11/26 | VRSN | AVISO DE PAGO VRSN |  | ",
     "19/11/26 | AGRO | AVISO DE PAGO AGRO |  | ",
@@ -481,10 +485,6 @@
     "28/09/26 | GRMN | AVISO DE PAGO GRMN |  | ",
     "28/09/26 | META | AVISO DE PAGO META |  | ",
     "28/09/26 | NEM | AVISO DE PAGO NEM |  | ",
-    "25/09/26 | BAC | AVISO DE PAGO BAC |  | ",
-    "25/09/26 | HSBC | AVISO DE PAGO HSBC |  | ",
-    "25/09/26 | LMT | AVISO DE PAGO LMT |  | ",
-    "25/09/26 | LYG | AVISO DE PAGO LYG |  | ",
-    "25/09/26 | PYPL | AVISO DE PAGO PYPL |  | "
+    "25/09/26 | BAC | AVISO DE PAGO BAC |  | "
   ]
 }
