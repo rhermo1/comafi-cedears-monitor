@@ -244,6 +244,8 @@
     "08/06/26 | AVGO | ANUNCIO DE AMPLIACIÓN DE MONTO- BROADCOM INC (AVGO) - ISIN ARBCOM4603J5- Cód. 8531 08-6-2026 |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/dividendos.aspx": [
+    "27/11/26 | AKO.B | ANUNCIO DE DIVIDENDO AKO.B |  | ",
+    "27/11/26 | TS | ANUNCIO DE DIVIDENDO TS |  | ",
     "25/11/26 | BMNR | ANUNCIO DE DIVIDENDO BMNR |  | ",
     "25/11/26 | HPQ | ANUNCIO DE DIVIDENDO HPQ |  | ",
     "25/11/26 | LND | ANUNCIO DE DIVIDENDO LND |  | ",
@@ -361,11 +363,12 @@
     "23/10/26 | SCHW | ANUNCIO DE DIVIDENDO SCHW |  | ",
     "23/10/26 | SLB | ANUNCIO DE DIVIDENDO SLB |  | ",
     "22/10/26 | BX | ANUNCIO DE DIVIDENDO BX |  | ",
-    "22/10/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | ",
-    "22/10/26 | NOK | ANUNCIO DE DIVIDENDO NOK |  | ",
-    "22/10/26 | VRSN | ANUNCIO DE DIVIDENDO VRSN |  | "
+    "22/10/26 | NEE | ANUNCIO DE DIVIDENDO NEE |  | "
   ],
   "https://www.comafi.com.ar/custodiaglobal/pagos.aspx": [
+    "27/11/26 | CCL | AVISO DE PAGO CCL |  | ",
+    "27/11/26 | PAAS | AVISO DE PAGO PAAS |  | ",
+    "27/11/26 | SBUX | AVISO DE PAGO SBUX |  | ",
     "25/11/26 | C | AVISO DE PAGO C |  | ",
     "25/11/26 | EQNR | AVISO DE PAGO EQNR |  | ",
     "25/11/26 | HWM | AVISO DE PAGO HWM |  | ",
@@ -482,9 +485,6 @@
     "29/09/26 | PBR | AVISO DE PAGO PBR |  | ",
     "29/09/26 | PSQ | AVISO DE PAGO PSQ |  | ",
     "28/09/26 | ARCO | AVISO DE PAGO ARCO |  | ",
-    "28/09/26 | GRMN | AVISO DE PAGO GRMN |  | ",
-    "28/09/26 | META | AVISO DE PAGO META |  | ",
-    "28/09/26 | NEM | AVISO DE PAGO NEM |  | ",
-    "25/09/26 | BAC | AVISO DE PAGO BAC |  | "
+    "28/09/26 | GRMN | AVISO DE PAGO GRMN |  | "
   ]
 }
